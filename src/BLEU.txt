@@ -1,0 +1,1505 @@
+BLEU score
+Predicted headline
+True headline
+article
+-------------------------------------------------
+1.0
+Updated changelog
+Updated changelog
+mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> Changelog <nl> * Added system property restrictions * Srv_Default_DNS * and * Srv_WiFi_Country * <nl> * Added restriction * Bluetooth . Srv_getName * <nl> * Added restriction * Srv_getCompleteVoiceMailNumber * <nl> + * Added restriction * WiFi . Srv_getBatchedScanResults * <nl> * * Version 2 . 2 . 2 TEST * * <nl>
+-------------------------------------------------
+1.0
+Updated changelog
+Updated changelog
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> Changelog <nl> [ Open issues ] ( https : / / github . com / M66B / XPrivacy / issues ? state = open ) <nl> - * * Version 2 . 2 STABLE * * ( not released yet ) <nl> + * * Version 2 . 2 STABLE * * <nl> Changes since last stable version : <nl>"
+-------------------------------------------------
+1.0
+Updated changelog
+Updated changelog
+mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> Changelog <nl> * Clearer whitelist entry delete icon <nl> * Updated Dutch translation <nl> * Updated Lithuanian translation <nl> + * Updated Russian translation <nl> [ Open issues ] ( https : / / github . com / M66B / XPrivacy / issues ? state = open ) <nl>
+-------------------------------------------------
+1.0
+"Setting default name for multi - project"
+"Setting default name for multi - project"
+"mmm a / settings . gradle <nl> ppp b / settings . gradle <nl> + rootProject . name = ' gradle - template - multi ' / / TEMPLATE : Change this <nl> include ' template - client ' , ' template - server ' <nl>"
+-------------------------------------------------
+1.0
+Updated changelog
+Updated changelog
+mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> Changelog <nl> * Fixed all problems reported through the support info <nl> * Thanks for sending all the support info ! <nl> + * Leave on demand dialog button enabled when new dialog within 1 second <nl> + * Updated German translation <nl> * Updated Vietnamese translation <nl> [ Open issues ] ( https : / / github . com / M66B / XPrivacy / issues ? state = open ) <nl>
+-------------------------------------------------
+1.0
+Updated CHANGELOG . txt .
+Updated CHANGELOG . txt .
+"mmm a / CHANGELOG . txt <nl> ppp b / CHANGELOG . txt <nl> + 2 . 14 . 1 : <nl> + - Improved some error messages . <nl> + - Fixed snapshots not supporting all block types . <nl> + <nl> 2 . 14 : <nl> - Added full block data support ( furnaces , note blocks , etc . ) for Bukkit . <nl> - Added / s to repeat last script . <nl>"
+-------------------------------------------------
+1.0
+Updated changelog
+Updated changelog
+mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> Changelog <nl> * * Next release * * <nl> * Allow fetching restrictions for system applications per application <nl> + * Updated Chinese translation <nl> * Updated Finnish translation <nl> * Updated Lithuanian translation <nl> * Updated Polish translation <nl>
+-------------------------------------------------
+0.846481724890614
+"ignore Update ' modules / apps / foundation / frontend - taglib"
+"ignore Update ' modules / apps / foundation / frontend - taglib / ."
+"mmm a / modules / apps / foundation / frontend - taglib / . gitrepo <nl> ppp b / modules / apps / foundation / frontend - taglib / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = b6ef25c17a74b9eadcd3fc34ba905bc24fa17bf6 <nl> + commit = 7122bc71af7c5edb1a1d1e5831aa5e5320109129 <nl> mode = push <nl> - parent = 72de9c6bccb3f1b833f85033725d19c507fcd6ec <nl> + parent = b7147ccab33000ab7b5945fa010fe6ae683a5ff2 <nl> remote = git @ github . com : liferay / com - liferay - frontend - taglib . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.8333333333333334
+ignore ignore Update ' modules / apps / / / directory /
+ignore Update ' modules / apps / collaboration / directory / .
+"mmm a / modules / apps / collaboration / directory / . gitrepo <nl> ppp b / modules / apps / collaboration / directory / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 8975ed6a94252a6168472bbaebd59fe9991410da <nl> + commit = 4652a22e7a1edccb96ed39afc9b9d41d8cce952f <nl> mode = push <nl> - parent = 5a584726e271a4ce2568821fea85fb094b71681f <nl> + parent = 26b91e4374759bcf5f4a471f83942cc670ed6036 <nl> remote = git @ github . com : liferay / com - liferay - directory . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7788007830714049
+Remove unneeded property .
+Remove unneeded version property .
+"similarity index 100 % <nl> rename from CHANGES . txt <nl> rename to CHANGELOG . md <nl> mmm a / gradle . properties <nl> ppp b / gradle . properties <nl> - version = 2 . 0 . 4 - SNAPSHOT <nl> + release . scope = patch <nl>"
+-------------------------------------------------
+0.7759415811497294
+"ignore ignore Update ' modules / apps / foundation / portal -"
+"ignore Update ' modules / apps / foundation / portal - search / ."
+"mmm a / modules / apps / foundation / portal - search / . gitrepo <nl> ppp b / modules / apps / foundation / portal - search / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 44cf42d13d4030e74830d23d2cd5e391dca123ca <nl> + commit = 7423b17787b2fffd94362b92f009c4456478b7ef <nl> mode = push <nl> - parent = 629067e0c611ae5df699461a9249ff80d64a9950 <nl> + parent = c61035b15b58f9631ba8d7090af1d47139ab0e58 <nl> remote = git @ github . com : liferay / com - liferay - portal - search . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+"ignore Update ' modules / apps / web - experience / ignore"
+"ignore Update ' modules / apps / web - experience / iframe / ."
+"mmm a / modules / apps / web - experience / iframe / . gitrepo <nl> ppp b / modules / apps / web - experience / iframe / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 774520fedb3fc347ad8256a2fadd11bba229cad7 <nl> + commit = 34d1d9d4a44b2464f4f027be8a78ddf460918f53 <nl> mode = push <nl> - parent = ac8ed6d1e2569aa86809e4cc331086776c07937a <nl> + parent = 46ecf5f7a56ee8df096fcad6c429d2725033717c <nl> remote = git @ github . com : liferay / com - liferay - iframe . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+"ignore Update ' modules / apps / web / web - experience"
+"ignore Update ' modules / apps / web - experience / trash / ."
+"mmm a / modules / apps / web - experience / trash / . gitrepo <nl> ppp b / modules / apps / web - experience / trash / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 449429d1cd02c2b2c207ce36d41bae364b5383a1 <nl> + commit = 8d3862e6726466ce8275966db2aadd074beffe1a <nl> mode = push <nl> - parent = 7fe1da05bae96d019796993b1d37097eea2753dc <nl> + parent = 064435dd1015ac4c791a9765af8404014f1f1a3e <nl> remote = git @ github . com : liferay / com - liferay - trash . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+ignore ignore Update ' modules / apps / web / asset /
+"ignore Update ' modules / apps / web - experience / asset / ."
+"mmm a / modules / apps / web - experience / asset / . gitrepo <nl> ppp b / modules / apps / web - experience / asset / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 3ff482677b6dea5e9f1496fe9d54b585d71051dc <nl> + commit = 811efa7d7135a6c178f1c44fdbd861e36abee466 <nl> mode = push <nl> - parent = 56a5df8701ce913ced802f9df24a44e05ca4698a <nl> + parent = df0d4e56565045e7c316dee34a80059a2c699949 <nl> remote = git @ github . com : liferay / com - liferay - asset . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+ignore ignore Update ' modules / apps / web / asset /
+"ignore Update ' modules / apps / web - experience / asset / ."
+"mmm a / modules / apps / web - experience / asset / . gitrepo <nl> ppp b / modules / apps / web - experience / asset / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 10d2aed29b6d4b46799f4b647e32298e52afd7a5 <nl> + commit = 4837fa3b84b3fed70c3a3651c5c784dfa100f2e5 <nl> mode = push <nl> - parent = 2164cb2d546ce350ad9831d334f491f469d1d420 <nl> + parent = 1345ceb6d8149a42391cbbec360e13dfb0b859f5 <nl> remote = git @ github . com : liferay / com - liferay - asset . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+"ignore ignore Update ' modules / apps / foundation / portal -"
+"ignore Update ' modules / apps / foundation / portal - search / ."
+"mmm a / modules / apps / foundation / portal - search / . gitrepo <nl> ppp b / modules / apps / foundation / portal - search / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 42025c61665a8b57a20faee78ff5ece38163dc74 <nl> + commit = 604db7c37eb879543e4ddc0cc777965fd92d841f <nl> mode = push <nl> - parent = c3bb75922425984c05390ab01ffe196c2134fbb6 <nl> + parent = ade5dccfa9d8b9c19451bca176477582d849692e <nl> remote = git @ github . com : liferay / com - liferay - portal - search . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+ignore ignore Update ' modules / apps / foundation / template /
+"ignore Update ' modules / apps / foundation / portal - template / ."
+"mmm a / modules / apps / foundation / portal - template / . gitrepo <nl> ppp b / modules / apps / foundation / portal - template / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 5429def45e221d650ca55e6a06fef03cd9f24b83 <nl> + commit = 53a1fdc4b42abfc4b603c4196dc79755e62b6e30 <nl> mode = push <nl> - parent = bf553a1f01377ff4b209d04a2a77cd2430ab2c54 <nl> + parent = 8f31593f1fd13acbce15565af047f5de31fc7d52 <nl> remote = git @ github . com : liferay / com - liferay - portal - template . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7759415811497294
+"ignore Update ' modules / apps / web / web - experience"
+"ignore Update ' modules / apps / web - experience / trash / ."
+"mmm a / modules / apps / web - experience / trash / . gitrepo <nl> ppp b / modules / apps / web - experience / trash / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = fcb52ab0ed670cc05d779dca13875847c40e88c2 <nl> + commit = d597d22140d4dfe035c3d64f638a17bfd827bcc1 <nl> mode = push <nl> - parent = b3dc06172826b083549fe20ffdd2ba7b5d0567c7 <nl> + parent = 9f4fb2cbc10fa2c8484342bcf3030f79d71485fc <nl> remote = git @ github . com : liferay / com - liferay - trash . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / ignore / ignore /
+ignore Update ' modules / apps / foundation / login / .
+"mmm a / modules / apps / foundation / login / . gitrepo <nl> ppp b / modules / apps / foundation / login / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 0e35ad498dc09bfc613c8d9962c47218a570ea66 <nl> + commit = 41ac6f5a52cc3af8352334f44ba4970a470ec8ca <nl> mode = push <nl> - parent = b0f5474da3c7dcc868e63559c405ab742fd16970 <nl> + parent = 4a79dfb2d03b4c7ec125f036e1f4dcbd96bf0168 <nl> remote = git @ github . com : liferay / com - liferay - login . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / foundation / contacts / .
+"mmm a / modules / apps / foundation / contacts / . gitrepo <nl> ppp b / modules / apps / foundation / contacts / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 317700c827687965a237916454e8b3c8f693fb99 <nl> + commit = de5645bee08be4fb16d4bd427dc7c67fc0a5e17b <nl> mode = push <nl> - parent = a9197bada4958a364ec12cbb4dbda613d9f27dab <nl> + parent = 7ee93676b80818bfe8fc36aa26c1e61f4666c912 <nl> remote = git @ github . com : liferay / com - liferay - contacts . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore Update ignore ' modules / apps / ignore comment / comment
+ignore Update ' modules / apps / collaboration / comment / .
+"mmm a / modules / apps / collaboration / comment / . gitrepo <nl> ppp b / modules / apps / collaboration / comment / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 92e6cbd1af027890ad2bb322438807412f240287 <nl> + commit = ea54aa44ec1ecd1142a3b36aee04ede240b0cec8 <nl> mode = push <nl> - parent = 521e07e123869506cba55d16ade2c1510b78708d <nl> + parent = 2402d9a2e9211eb4dcf3af7eec89581c70f213dc <nl> remote = git @ github . com : liferay / com - liferay - comment . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / collaboration / wiki / .
+"mmm a / modules / apps / collaboration / wiki / . gitrepo <nl> ppp b / modules / apps / collaboration / wiki / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = b6f7a347edb880cbc2abb3280fcf646bdda00252 <nl> + commit = 4c66335d8c184cd78a2c150273640b038158149d <nl> mode = push <nl> - parent = 07ba0fb1d88b67a9256ea38f65cb3890d08cd5d2 <nl> + parent = 225adbcf2303e7fce020821248fb92384ed2fff9 <nl> remote = git @ github . com : liferay / com - liferay - wiki . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / foundation / roles / .
+"mmm a / modules / apps / foundation / roles / . gitrepo <nl> ppp b / modules / apps / foundation / roles / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 1c06c60589e28c2ae7e3c4f87536f0cb29292a35 <nl> + commit = fdcd3973c8a467f6b878f285bb43b333cebb3cae <nl> mode = push <nl> - parent = 7a256dae951e57247e589ceb15cec82d8e66c1ac <nl> + parent = 66d57a98d7704e6c98bff415325e034451883df9 <nl> remote = git @ github . com : liferay / com - liferay - roles . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / ignore / ignore /
+ignore Update ' modules / apps / foundation / login / .
+"mmm a / modules / apps / foundation / login / . gitrepo <nl> ppp b / modules / apps / foundation / login / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 9ece626c117c36235ac49412a37d6845ae320f0b <nl> + commit = 42c5e6492fca0556ceae871870f2bf7816c7b84f <nl> mode = push <nl> - parent = 3aebcd7388d0aa9bd2df2a850af9da6efba7ed57 <nl> + parent = 9355620bc32df68c5fa875d7379bda29aecc33b0 <nl> remote = git @ github . com : liferay / com - liferay - login . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / collaboration / wiki / .
+"mmm a / modules / apps / collaboration / wiki / . gitrepo <nl> ppp b / modules / apps / collaboration / wiki / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = bc3606cc77e356bee3c9049b8640896bb0e734f3 <nl> + commit = 7f745bbaeb83a1cb365271c49b1ced686eea05f6 <nl> mode = push <nl> - parent = 93afdf6838c831488a10d3b76eb039f8470ef26c <nl> + parent = ee739a3ef7a639946a41ff0c7bdc0df94e46d672 <nl> remote = git @ github . com : liferay / com - liferay - wiki . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / foundation / contacts / .
+"mmm a / modules / apps / foundation / contacts / . gitrepo <nl> ppp b / modules / apps / foundation / contacts / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 54e684d82dced80a914c2cc18544c9be7d4b9f47 <nl> + commit = 617e20eaef20587f0bd79b3d846996636a885411 <nl> mode = push <nl> - parent = 20dfa02d34590187e419d6b62063255dd07c1d82 <nl> + parent = fcdd68efc31024ee434b1b86e49d5e7eae4eb4b6 <nl> remote = git @ github . com : liferay / com - liferay - contacts . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore ignore Update ' modules / apps / / / /
+ignore Update ' modules / apps / foundation / portal / .
+"mmm a / modules / apps / foundation / portal / . gitrepo <nl> ppp b / modules / apps / foundation / portal / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 8e88d5be8f32194530007515be2ec8598a0c7674 <nl> + commit = d5270e3ee3137f15a708e6b0cba61eda9c6098cc <nl> mode = push <nl> - parent = 0629bfdedd4a290a35437964b6fe324f3062c5f8 <nl> + parent = baf800549d9cbeb2395755263a2db257f77d9ea1 <nl> remote = git @ github . com : liferay / com - liferay - portal . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / collaboration / wiki / .
+"mmm a / modules / apps / collaboration / wiki / . gitrepo <nl> ppp b / modules / apps / collaboration / wiki / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 36949665f9cceaf531c577143178cd0f67893161 <nl> + commit = 9f094320c5ba5b3aadfcdb01daf4cf270b4c3d58 <nl> mode = push <nl> - parent = 2c93d27310e342dc57e9b96109adf43ad42d5136 <nl> + parent = 9d7df18d3bd52c71869001fa880537d1d4362b6c <nl> remote = git @ github . com : liferay / com - liferay - wiki . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore ignore Update ' modules / apps / / / /
+ignore Update ' modules / apps / foundation / portal / .
+"mmm a / modules / apps / foundation / portal / . gitrepo <nl> ppp b / modules / apps / foundation / portal / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 2f03e545085c159d922fb9eac9b166ee820a94c0 <nl> + commit = c3d68dbcaaa18c18e76bb46697c52e4d8ec6ffa9 <nl> mode = push <nl> - parent = ab9bdb710f55453499286b0269f60effb1c38e36 <nl> + parent = a1f017cdfb2581a936418d584058638f0262b47c <nl> remote = git @ github . com : liferay / com - liferay - portal . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.75
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / foundation / roles / .
+"mmm a / modules / apps / foundation / roles / . gitrepo <nl> ppp b / modules / apps / foundation / roles / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = f6364be9499c38a3bf1a219bdd5ec8d495260cb2 <nl> + commit = 225822a45896ee8b7658317561b4233941a94964 <nl> mode = push <nl> - parent = 20a4ba0e886f3a3c783834b7326b10692f9361de <nl> + parent = a269aaa24abca149a9281cdf010b8efcaef3813b <nl> remote = git @ github . com : liferay / com - liferay - roles . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7165313105737893
+"ignore Update ' modules / apps / web - experience / export"
+"ignore Update ' modules / apps / web - experience / export - import / ."
+"mmm a / modules / apps / web - experience / export - import / . gitrepo <nl> ppp b / modules / apps / web - experience / export - import / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 54655574938287688c5f6d6589eac336d44a69a1 <nl> + commit = 4475d30b86a2e557d00d48ac28361626c4761639 <nl> mode = push <nl> - parent = 793a87b2110046b231e45ff2b024064a10dffa02 <nl> + parent = 05fdf26cd15d229bd76a1cacb09712797e16f440 <nl> remote = git @ github . com : liferay / com - liferay - export - import . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7165313105737893
+"ignore Update ' modules / apps / web - experience / application"
+"ignore Update ' modules / apps / web - experience / application - list / ."
+"mmm a / modules / apps / web - experience / application - list / . gitrepo <nl> ppp b / modules / apps / web - experience / application - list / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 1d6ebaf54f22948026813e986e0b4df5feb639a5 <nl> + commit = 66067c06876fec1bb6ccb0d1c8f91c2724abe4b5 <nl> mode = push <nl> - parent = dc6d1646879dfeca26e3f568fe28841a59646fca <nl> + parent = f44040e305d9c01d655042069429c42c14811ffb <nl> remote = git @ github . com : liferay / com - liferay - application - list . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.7142857142857143
+"Added STORM - 1271 to Changelog ."
+"Added STORM - 414 to Changelog"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> * STORM - 420 : Missing quotes in storm - starter python code <nl> * STORM - 399 : Kafka Spout defaulting to latest offset when current offset is older then 100k <nl> * STORM - 421 : Memoize local hostname lookup in executor <nl> + * STORM - 414 : support logging level to multilang protocol spout and bolt <nl> # # 0 . 9 . 2 - incubating <nl> * STORM - 66 : send taskid on initial handshake <nl>"
+-------------------------------------------------
+0.7054014374088451
+"ignore ignore Update ' modules / apps / web / web -"
+"ignore Update ' modules / apps / web - experience / layout / ."
+"mmm a / modules / apps / web - experience / layout / . gitrepo <nl> ppp b / modules / apps / web - experience / layout / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 5c76b3fc3b5f51a4d744fd65e35ed748759f93b5 <nl> + commit = 72abd84b975f9300ea12d560c89ba8326130906d <nl> mode = push <nl> - parent = b20a4c122a218bbf6374e33c6fe2033f8912e920 <nl> + parent = 65f45b79b7e53fd3131cf92307b6a77b41d18b87 <nl> remote = git @ github . com : liferay / com - liferay - layout . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6666666666666666
+ignore ignore Update ' modules / apps / / / / /
+ignore Update ' modules / apps / marketplace / .
+"mmm a / modules / apps / marketplace / . gitrepo <nl> ppp b / modules / apps / marketplace / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = fa6f04cedbf018d04caeb5d4abd93427ff24f4a5 <nl> + commit = a89e4a5e2a82d82b1ee7839191a55ae43e21528e <nl> mode = push <nl> - parent = c23f5447a2829e3107b05414063f643b6b12bbcb <nl> + parent = 92706c6f0c0222462b617243d428936c21a02f63 <nl> remote = git @ github . com : liferay / com - liferay - marketplace . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6666666666666666
+Add xxhdpi notification to xhdpi .
+Add xhdpi notification icon .
+"new file mode 100644 <nl> index 000000000 . . 67827db75 <nl> Binary files / dev / null and b / SeriesGuide / res / drawable - xhdpi - v11 / ic_notification . png differ <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore ignore Update ' modules / apps / modules / apps /
+"ignore Update ' modules / apps / foundation / portal - scripting / ."
+"mmm a / modules / apps / foundation / portal - scripting / . gitrepo <nl> ppp b / modules / apps / foundation / portal - scripting / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = f18f12eac839ae550e54feb917288e9305b6037d <nl> + commit = 03d8f460b9ef51e11f9211adc89a874bd4ac7184 <nl> mode = push <nl> - parent = 0ec1e345637870050bd55b3c1ba49ba96c6e744b <nl> + parent = 6077b8918f17486823f6e6e934f4b74ad41b6fa2 <nl> remote = git @ github . com : liferay / com - liferay - portal - scripting . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore ignore ignore Update ' modules / apps / ignore / /
+"ignore Update ' modules / apps / collaboration / document - library / ."
+"mmm a / modules / apps / collaboration / document - library / . gitrepo <nl> ppp b / modules / apps / collaboration / document - library / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = be9f2e21b526e66160ae0a9ee8c88b94b6b65e04 <nl> + commit = b434019fd116902c88f68aa5411854256940ee12 <nl> mode = push <nl> - parent = 2bf6566646cffd5b779147e088618115a92fb132 <nl> + parent = bde94e3f7b6b4f29ec8aab568e11007b0701e0eb <nl> remote = git @ github . com : liferay / com - liferay - document - library . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore ignore Update ' modules / apps / ignore / / /
+"ignore Update ' modules / apps / web - experience / journal / ."
+"mmm a / modules / apps / web - experience / journal / . gitrepo <nl> ppp b / modules / apps / web - experience / journal / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 3aaec1b099cca80c6bd23ea1e385bd65227dcfe0 <nl> + commit = 603f89281862c9d745bca85de9378483dc5687c1 <nl> mode = pull <nl> - parent = a61324b0b9927ca45be8fee7054ebea38438ac89 <nl> + parent = 22a09b6fe0e97c5a48e2a9467ac7b7bb8e9ab993 <nl> remote = git @ github . com : liferay / com - liferay - journal . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore Update ignore ' modules / apps / / / / /
+"ignore Update ' modules / apps / collaboration / message - boards / ."
+"mmm a / modules / apps / collaboration / message - boards / . gitrepo <nl> ppp b / modules / apps / collaboration / message - boards / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 20a95e7951b055047d48aab9585e697238740d3e <nl> + commit = a74e46bb33f0ad303f07f25821206b78fcad53cd <nl> mode = push <nl> - parent = 51751d93fdf06b425a1ebde25a8cc73a7cdf83e9 <nl> + parent = 90f8923284ead687a27fb19d870489007f97ea3d <nl> remote = git @ github . com : liferay / com - liferay - message - boards . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore ignore Update ' modules / apps / / / apps /
+"ignore Update ' modules / apps / foundation / portal - cache / ."
+"mmm a / modules / apps / foundation / portal - cache / . gitrepo <nl> ppp b / modules / apps / foundation / portal - cache / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 40198853b6befa9f2a166206c47d0d9ffc45d9fb <nl> + commit = 7495943a83bf084358270968b017f4e8c86a5a35 <nl> mode = push <nl> - parent = 6977c65d119f91442875f57b189ca476418de0d7 <nl> + parent = f9fe7237657fb76a3a10b5ea211347c47704c4fa <nl> remote = git @ github . com : liferay / com - liferay - portal - cache . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore ignore Update ' modules / apps / / / / /
+"ignore Update ' modules / apps / foundation / users - admin / ."
+"mmm a / modules / apps / foundation / users - admin / . gitrepo <nl> ppp b / modules / apps / foundation / users - admin / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 598550a7cda51a32e3662cdc524865a579372022 <nl> + commit = 5c14f023eb050b481f975065e6ba8914cd8e5981 <nl> mode = push <nl> - parent = 5a5631a82bdc93e190d355e588d778b291c56a16 <nl> + parent = 2fcefb6dd77d83d2b51951765c2f6954f3490b38 <nl> remote = git @ github . com : liferay / com - liferay - users - admin . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore Update ' modules / apps / / / / / apps
+"ignore Update ' modules / apps / foundation / frontend - theme / ."
+"mmm a / modules / apps / foundation / frontend - theme / . gitrepo <nl> ppp b / modules / apps / foundation / frontend - theme / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 1fe86eb71e29f2579c4d6d985a3eadd261f69e13 <nl> + commit = 2d8a353ca2c59bf0f5cb2928ab58e8711ea88033 <nl> mode = push <nl> - parent = fe8c29784b893ab982b69f8ca88fd3b4cc4c7d6c <nl> + parent = 657d26cc7946ce1f15362163f6fb3df5b88be7c7 <nl> remote = git @ github . com : liferay / com - liferay - frontend - theme . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6348612936679605
+ignore Update ' modules / apps / / / / / apps
+"ignore Update ' modules / apps / foundation / frontend - css / ."
+"mmm a / modules / apps / foundation / frontend - css / . gitrepo <nl> ppp b / modules / apps / foundation / frontend - css / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = bbd63b74e6c75aea72d07487d61e116bf4a84641 <nl> + commit = fd2d02925017f17d75913f03e9338413b2894824 <nl> mode = push <nl> - parent = ba77110cacb9d1fb4da00d7bb1dfd0c1a52abc17 <nl> + parent = 6b999ce73bd7104ef344770408e17a2e6c1b5b07 <nl> remote = git @ github . com : liferay / com - liferay - frontend - css . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.6065306597126334
+Added .
+Added gitignore .
+new file mode 100644 <nl> index 0000000 . . 8d94ede <nl> mmm / dev / null <nl> ppp b / enterprise / . gitignore <nl> + * ~ <nl> + \ # * <nl> + * / target / <nl> + / target / <nl> + * . swp <nl> + . project <nl> + . classpath <nl> + . settings <nl> + * . iws <nl> + * . ipr <nl> + * . iml <nl> + . idea / <nl> + . DS_Store <nl>
+-------------------------------------------------
+0.5833333333333334
+ignore ignore ignore modules / apps / / / / apps /
+ignore Update ' modules / apps / foundation / petra / .
+"mmm a / modules / apps / foundation / petra / . gitrepo <nl> ppp b / modules / apps / foundation / petra / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 01fd409c21fbffe7d93f6262b21cb6f710c80008 <nl> + commit = 527ae0640d2186e4b454087ed9b0c6d2f438aab9 <nl> mode = push <nl> - parent = f75658e5ac5a120908ad6a7e17488a8bf30638bf <nl> + parent = f923d0b0880dc9234d8cff8dbff40e925c807f12 <nl> remote = git @ github . com : liferay / com - liferay - petra . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.5714285714285714
+"Added STORM - 1078 to CHANGELOG ."
+"add STORM - 1872 to CHANGELOG"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> * STORM - 1769 : Added a test to check local nimbus with notifier plugin <nl> # # 1 . 1 . 0 <nl> + * STORM - 1872 : Release Jedis connection when topology shutdown <nl> * STORM - 1837 : Fix complete - topology and prevent message loss <nl> * STORM - 2092 : optimize TridentKafkaState batch sending <nl> * STORM - 1979 : Storm Druid Connector implementation . <nl>"
+-------------------------------------------------
+0.537398482930342
+ignore ignore ignore Update ' modules / apps / / / /
+"ignore Update ' modules / apps / forms - and - workflow / polls / ."
+"mmm a / modules / apps / forms - and - workflow / polls / . gitrepo <nl> ppp b / modules / apps / forms - and - workflow / polls / . gitrepo <nl> ; <nl> [ subrepo ] <nl> cmdver = liferay <nl> - commit = 0f02e629dc6bd97c909cf359b049344551da3ea1 <nl> + commit = 7b44daa614303707e3d2d387e4f35463b1a1b388 <nl> mode = push <nl> - parent = 16164d93e1da67b3f08aff499eb345346861f8ae <nl> + parent = 3e5d4832e5b0892bb6ec7bae2222c419c3caca70 <nl> remote = git @ github . com : liferay / com - liferay - polls . git <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.513417119032592
+Add travis configuration
+Add a simple travis configuration
+"new file mode 100644 <nl> index 0000000 . . 475bf0c <nl> mmm / dev / null <nl> ppp b / . travis . yml <nl> + language : java <nl> + before_script : . / build . sh pom . xml & & mvn dependency : go - offline <nl> + script : mvn test <nl> + jdk : <nl> + - oraclejdk7 <nl> + - openjdk6 <nl> + notifications : <nl> + email : false <nl>"
+-------------------------------------------------
+0.5
+added missing import .
+missing import
+mmm a / py / testdir_single_jvm / test_players_NA . py <nl> ppp b / py / testdir_single_jvm / test_players_NA . py <nl> import unittest , random , sys , time <nl> sys . path . extend ( [ ' . ' , ' . . ' , ' py ' ] ) <nl> + import h2o_hosts <nl> import h2o , h2o_cmd , h2o_import as h2i <nl> class Basic ( unittest . TestCase ) : <nl>
+-------------------------------------------------
+0.5
+Update configuration . md
+Create CHANGELOG . md
+new file mode 100644 <nl> index 0000000 . . 3062aee <nl> mmm / dev / null <nl> ppp b / CHANGELOG . md <nl> + # # 1 . 1 <nl> + <nl> + 1 . Possibility to hide folding prefix <nl> + 2 . Possibility to set custom folding pattern <nl> + <nl> + # # 1 . 0 <nl> + <nl> + Initial release <nl>
+-------------------------------------------------
+0.49123845184678916
+Update README . md .
+Rename README to README . md
+"deleted file mode 100644 <nl> index 45f9ab3 . . 0000000 <nl> mmm a / lucida / djinntonic / README <nl> ppp / dev / null <nl> - # Djinn - and - Tonic <nl> - <nl> - ` make ` to compile . <nl> new file mode 100644 <nl> index 0000000 . . 45f9ab3 <nl> mmm / dev / null <nl> ppp b / lucida / djinntonic / README . md <nl> + # Djinn - and - Tonic <nl> + <nl> + ` make ` to compile . <nl>"
+-------------------------------------------------
+0.47768754038252614
+Added in .
+Added joscar JAR .
+new file mode 100644 <nl> index 000000000 . . 892fda21b <nl> Binary files / dev / null and b / src / plugins / gateway / lib / joscar . jar differ <nl>
+-------------------------------------------------
+0.45489799478447507
+Update README . md
+Fix typo in README . md
+"mmm a / README . md <nl> ppp b / README . md <nl> computation - layer . api . port = 8092 <nl> ` ` ` <nl> _The default ports are 80 and 8080 respectively , but , 80 requires ` root ` access to use , and 8080 is used by <nl> - Hadoop YARN daemon processes . So the config here specifies diffeent ports . _ <nl> + Hadoop YARN daemon processes . So the config here specifies different ports . _ <nl> # # Running <nl>"
+-------------------------------------------------
+0.4
+add words suggested to .
+adding words suggested by users
+"mmm a / languagetool - language - modules / de / src / main / resources / org / languagetool / resource / de / hunspell / spelling . txt <nl> ppp b / languagetool - language - modules / de / src / main / resources / org / languagetool / resource / de / hunspell / spelling . txt <nl> Umklassifizierungen <nl> Schminkspiegel / NS <nl> Hubble <nl> Friedman <nl> + Materiedichte <nl> + Dichteparameter / NS <nl> + Baryogenese <nl> + Teammotivation <nl>"
+-------------------------------------------------
+0.4
+"LPS - 16026 Test Formatting"
+"LPS - 48807 Remove EOL"
+"mmm a / portal - test - internal / src / com / liferay / portal / test / mock / AutoDeployMockServletContext . java <nl> ppp b / portal - test - internal / src / com / liferay / portal / test / mock / AutoDeployMockServletContext . java <nl> public class AutoDeployMockServletContext extends MockServletContext { <nl> * / <nl> protected Boolean autoDeploy = Boolean . TRUE ; <nl> - } <nl> + } <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.37151909989293497
+Push version to 13 . 13 .
+Prepare version 18 . 0 . 1 .
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> ext { <nl> buildToolsVersion = ' 19 . 1 . 0 ' <nl> / / API level 15 + - > version 15xxx <nl> - versionCode = 15043 <nl> - versionName = ' 18 . 0 . 0 ' <nl> + versionCode = 15044 <nl> + versionName = ' 18 . 0 . 1 ' <nl> } <nl> ext . libraries = [ <nl>"
+-------------------------------------------------
+0.36787944117144233
+Update changelog
+Update the changelog file
+"mmm a / changelog . txt <nl> ppp b / changelog . txt <nl> * Allow to add / remove RealmChangeListeners in RealmChangeListeners . <nl> * Bug fixed in Realm crashing for receiving notifications after close ( ) . <nl> * Close the Realm instance after migrations . <nl> + * Added a check to deny the writing of objects outside of a transaction . <nl> 0 . 75 . 1 ( 03 December 2014 ) <nl> * Changing sort to be an in - place method . <nl>"
+-------------------------------------------------
+0.36787944117144233
+Delete .
+Delete tablet . png
+deleted file mode 100644 <nl> index 8b6b9b9 . . 0000000 <nl> Binary files a / tablet . png and / dev / null differ <nl>
+-------------------------------------------------
+0.3422780793550613
+Added Create .
+"Create Protocol - Overview ."
+"new file mode 100644 <nl> index 00000000000 . . 99a8c86917d <nl> mmm / dev / null <nl> ppp b / docs / cas - server - documentation / protocol / Protocol - Overview . md <nl> + - - - <nl> + layout : default <nl> + title : CAS - Protocol Overview <nl> + - - - <nl> + <nl> + # Overview <nl>"
+-------------------------------------------------
+0.3333333333333333
+"JAL - Add Add Add Add Add Add Add image Add Add"
+"JAL - 35 Add image notes to non - proprietary licenses"
+"Binary files a / link - rus / img / non - proprietary . png and b / link - rus / img / non - proprietary . png differ <nl>"
+-------------------------------------------------
+0.3333333333333333
+"LPS - add Add add The Minor views 1 . 9 ."
+"ignore blogs - demo 1 . 0 . 0 prep next"
+"mmm a / modules / apps / collaboration / blogs / blogs - demo / bnd . bnd <nl> ppp b / modules / apps / collaboration / blogs / blogs - demo / bnd . bnd <nl> Bundle - Name : Liferay Blogs Demo <nl> Bundle - SymbolicName : com . liferay . blogs . demo <nl> - Bundle - Version : 1 . 0 . 1 <nl> \ No newline at end of file <nl> + Bundle - Version : 1 . 0 . 2 <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.3333333333333333
+Fix children stack stack every restore restore stack stack ) fails fails
+Fix typo which cause stack overflow if children ( ) was called
+"mmm a / src / main / groovy / util / slurpersupport / Node . java <nl> ppp b / src / main / groovy / util / slurpersupport / Node . java <nl> public class Node implements Writable { <nl> } <nl> public List children ( ) { <nl> - return this . children ( ) ; <nl> + return this . children ; <nl> } <nl> public void addChild ( final Object child ) { <nl>"
+-------------------------------------------------
+0.3333333333333333
+Check station in chunk station station fix station station Code station station
+fix error in docking station on chunk unload , fixes # 2898
+"mmm a / api / buildcraft / api / robots / DockingStation . java <nl> ppp b / api / buildcraft / api / robots / DockingStation . java <nl> public abstract class DockingStation { <nl> } <nl> public boolean linkIsDocked ( ) { <nl> - if ( isTaken ( ) ) { <nl> + if ( robotTaking ( ) ! = null ) { <nl> return robotTaking ( ) . getDockingStation ( ) = = this ; <nl> } else { <nl> return false ; <nl>"
+-------------------------------------------------
+0.3333333333333333
+travis config file
+Add travis
+"new file mode 100644 <nl> index 00000000 . . 80b6f4b7 <nl> mmm / dev / null <nl> ppp b / . travis . yml <nl> + language : java <nl> + jdk : <nl> + - openjdk7 <nl> + - oraclejdk7 <nl>"
+-------------------------------------------------
+0.3333333333333333
+Fix name name
+Fix indentation
+"mmm a / k9mail / src / main / res / layout / message_compose . xml <nl> ppp b / k9mail / src / main / res / layout / message_compose . xml <nl> < LinearLayout <nl> android : orientation = "" horizontal "" <nl> android : layout_gravity = "" center_vertical "" <nl> - android : layout_width = "" wrap_content "" <nl> + android : layout_width = "" wrap_content "" <nl> android : layout_height = "" wrap_content "" <nl> android : layout_weight = "" 1 "" > <nl>"
+-------------------------------------------------
+0.32928698165641584
+Added for doc / .
+Added tag 0 . 3 for changeset 76f63d1e55a2
+mmm a / . hgtags <nl> ppp b / . hgtags <nl> d04a8ef4ccb004651167f793b8f0c92577bc2f65 0 . 1 <nl> aa491af82d9ac427e6185bd06746cb3e8fcd7dc4 0 . 2 <nl> + 76f63d1e55a2ef792a27057acc214dcf0d2326b7 0 . 3 <nl>
+-------------------------------------------------
+0.3274923012311928
+Push version to 13 .
+"Prepare version 25 - beta1 ."
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> ext { <nl> buildToolsVersion = ' 21 . 1 . 2 ' <nl> / / API level 15 + - > version 15xxx <nl> - versionCode = 15125 <nl> - versionName = ' 24 ' <nl> + versionCode = 15130 <nl> + versionName = ' 25 - beta1 ' <nl> } <nl> ext . libraries = [ <nl>"
+-------------------------------------------------
+0.3274923012311928
+"LPS - 55267 Add formatting"
+"LPS - 50604 add @ Override"
+"mmm a / portal - impl / src / com / liferay / portlet / wiki / convert / WikiDLStoreConvertProcess . java <nl> ppp b / portal - impl / src / com / liferay / portlet / wiki / convert / WikiDLStoreConvertProcess . java <nl> import com . liferay . portlet . wiki . service . WikiPageLocalServiceUtil ; <nl> * / <nl> public class WikiDLStoreConvertProcess implements DLStoreConvertProcess { <nl> + @ Override <nl> public void migrate ( final DLStoreConverter dlStoreConverter ) <nl> throws PortalException { <nl>"
+-------------------------------------------------
+0.3032653298563167
+Update .
+Add some .
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> settings . xml <nl> activemq - data <nl> overridedb . * <nl> * . iml <nl> + * . ipr <nl> + * . iws <nl> . idea <nl> * . jar <nl> + . DS_Store <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.3032653298563167
+updated documentation
+updated wiki doco
+"Binary files a / src / wiki - snapshot . pdf and b / src / wiki - snapshot . pdf differ <nl>"
+-------------------------------------------------
+0.3032653298563167
+Update .
+Update build tools
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> android : <nl> components : <nl> - tools <nl> - platform - tools <nl> - - build - tools - 23 . 0 . 2 <nl> + - build - tools - 23 . 0 . 3 <nl> - extra - android - m2repository <nl> - android - 23 <nl>"
+-------------------------------------------------
+0.3032653298563167
+fix test
+Corrected test data
+"mmm a / idea / testData / quickfix / deprecatedSymbolUsage / keepLineBreaks / addArgument . kt . after <nl> ppp b / idea / testData / quickfix / deprecatedSymbolUsage / keepLineBreaks / addArgument . kt . after <nl> interface X { <nl> } <nl> fun foo ( x : X ) { <nl> - x . newFun ( 1 , <nl> + x . newFun ( <nl> + 1 , <nl> 2 , <nl> 0 ) <nl> } <nl>"
+-------------------------------------------------
+0.28973213900471884
+Add link link to documentation .
+Add missing link to the 2 . 0 migration guide .
+"mmm a / docs / reference / migration / index . asciidoc <nl> ppp b / docs / reference / migration / index . asciidoc <nl> As a general rule : <nl> See < < setup - upgrade > > for more info . <nl> - - <nl> + include : : migrate_2_0 . asciidoc [ ] <nl> + <nl> include : : migrate_1_x . asciidoc [ ] <nl> include : : migrate_1_0 . asciidoc [ ] <nl> - <nl> - <nl>"
+-------------------------------------------------
+0.2857142857142857
+set set window for window . set
+set component configurations correctly for trident spouts
+"mmm a / src / jvm / storm / trident / topology / TridentTopologyBuilder . java <nl> ppp b / src / jvm / storm / trident / topology / TridentTopologyBuilder . java <nl> public class TridentTopologyBuilder { <nl> bd . allGrouping ( masterCoordinator ( batchGroup ) , MasterBatchCoordinator . COMMIT_STREAM_ID ) ; <nl> } <nl> for ( Map m : c . componentConfs ) { <nl> - scd . addConfigurations ( m ) ; <nl> + bd . addConfigurations ( m ) ; <nl> } <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.2857142857142857
+Bump to fix android . properties file
+Updated project . props to Lollipop
+"mmm a / Library / project . properties <nl> ppp b / Library / project . properties <nl> # proguard . config = $ { sdk . dir } / tools / proguard / proguard - android . txt : proguard - project . txt <nl> # Project target . <nl> - target = android - 17 <nl> + target = android - 21 <nl> android . library = true <nl>"
+-------------------------------------------------
+0.28216057496353797
+add Deskshare subway icon for now
+Add a direction icon for elevators .
+"new file mode 100644 <nl> index 000000000 . . 9402126b7 <nl> Binary files / dev / null and b / opentripplanner - webapp / src / main / webapp / images / ui / trip / directions / elevator . png differ <nl>"
+-------------------------------------------------
+0.28216057496353797
+"LRQA - 17074 LRQA - 17074 Update . properties properties for the"
+"LRQA - 17074 Modify java . jdk . type property from x64 to x32"
+"mmm a / test . properties <nl> ppp b / test . properties <nl> # # Java JDK <nl> # # <nl> - # java . jdk . type = x32 <nl> - java . jdk . type = x64 <nl> + java . jdk . type = x32 <nl> + # java . jdk . type = x64 <nl> # java . jdk . x32 . version = 5 <nl> # java . jdk . x32 . version = 6 <nl>"
+-------------------------------------------------
+0.25
+removed unused jar .
+removed jaxen
+"deleted file mode 100755 <nl> index b63363113f . . 0000000000 <nl> Binary files a / lib / jaxen - 1 . 1 . 1 . jar and / dev / null differ <nl>"
+-------------------------------------------------
+0.25
+Fix sample manager manager
+Fix TsExtractor tests
+"mmm a / library / src / androidTest / assets / ts / sample . ts . 0 . dump <nl> ppp b / library / src / androidTest / assets / ts / sample . ts . 0 . dump <nl> track 257 : <nl> encoderPadding = - 1 <nl> subsampleOffsetUs = 9223372036854775807 <nl> selectionFlags = 0 <nl> - language = null <nl> + language = und <nl> drmInitData = - <nl> initializationData : <nl> sample count = 4 <nl>"
+-------------------------------------------------
+0.25
+update with # 439
+update chagelog
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 9 . 3 - rc2 <nl> + * STORM - 513 : check heartbeat from multilang subprocess <nl> * STORM - 549 : "" topology . enable . message . timeouts "" does nothing <nl> * STORM - 546 : Local hostname configuration ignored by executor <nl> * STORM - 492 : Test timeout should be configurable <nl>"
+-------------------------------------------------
+0.25
+Update build . gradle
+Bumped gradle plugin
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> buildscript { <nl> jcenter ( ) <nl> } <nl> dependencies { <nl> - classpath ' com . android . tools . build : gradle : 1 . 3 . 0 ' <nl> + classpath ' com . android . tools . build : gradle : 2 . 2 . 0 - alpha3 ' <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.25
+Fix travis build .
+Fixed indentation in .
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> android : <nl> - tools <nl> - build - tools - 22 . 0 . 1 <nl> - android - 19 <nl> - - android - 16 <nl> + - android - 16 <nl> before_install : <nl> - rm pom . xml <nl> script : <nl>"
+-------------------------------------------------
+0.25
+"LPS - 50855 Move Update Tags icon to use sync with mdpi"
+"LPS - 53579 moves icon"
+"similarity index 100 % <nl> rename from portal - web / docroot / html / icons / breadcrumb . png <nl> rename to modules / apps / breadcrumb / breadcrumb - web / src / META - INF / resources / icons / breadcrumb . png <nl>"
+-------------------------------------------------
+0.23884377019126307
+Add new new jar for splitFrame
+"JAL - 39 Add image for propietary license"
+"new file mode 100644 <nl> index 0000000 . . 442eeb5 <nl> Binary files / dev / null and b / link - rus / img / proprietary . png differ <nl>"
+-------------------------------------------------
+0.23884377019126307
+Update logo .
+Added another logo version
+"new file mode 100644 <nl> index 000000000 . . e66bffe3f <nl> Binary files / dev / null and b / jOOQ - website / img / logo - 223x170 . png differ <nl>"
+-------------------------------------------------
+0.23618327637050734
+Update gradle . properties
+updated gradle wrapper to 1 . 6
+"Binary files a / gradle / wrapper / gradle - wrapper . jar and b / gradle / wrapper / gradle - wrapper . jar differ <nl> mmm a / gradle / wrapper / gradle - wrapper . properties <nl> ppp b / gradle / wrapper / gradle - wrapper . properties <nl> - # Tue May 07 12 : 07 : 08 CEST 2013 <nl> + # Tue May 07 12 : 12 : 33 CEST 2013 <nl> distributionBase = GRADLE_USER_HOME <nl> distributionPath = wrapper / dists <nl> zipStoreBase = GRADLE_USER_HOME <nl>"
+-------------------------------------------------
+0.22992465073215146
+Added relative idea to the parent pom .
+Added relative path to the parent POM so that the user won ' t need to
+"mmm a / community / pom . xml <nl> ppp b / community / pom . xml <nl> < groupId > org . neo4j < / groupId > <nl> < artifactId > parent - pom < / artifactId > <nl> < version > 6 < / version > <nl> + < relativePath > . . / . . / parent / pom . xml < / relativePath > <nl> < / parent > <nl> < properties > <nl>"
+-------------------------------------------------
+0.22313016014842982
+Add .
+Add Review Board support .
+"new file mode 100644 <nl> index 00000000 . . 4316eecb <nl> mmm / dev / null <nl> ppp b / . reviewboardrc <nl> + REPOSITORY = "" si - pegasus "" <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.22313016014842982
+linux natives
+"update linux - x86 natives"
+"Binary files a / lib / native / linux - x86 . jar and b / lib / native / linux - x86 . jar differ <nl>"
+-------------------------------------------------
+0.21952465443761057
+Update build . properties .
+Bumped version to 1 . 3 . 3
+"mmm a / forge / version . txt <nl> ppp b / forge / version . txt <nl> - 1 3 2 0 <nl> + 1 3 3 0 <nl>"
+-------------------------------------------------
+0.2021768865708778
+Add more more to pass .
+Added a link to how JavaFX bindings work .
+"mmm a / doc / PlannedExtensions . txt <nl> ppp b / doc / PlannedExtensions . txt <nl> a ' static factory method ' . <nl> # # @ Property <nl> + http : / / today . java . net / pub / a / today / 2009 / 06 / 02 / hacking - javafx - binding . html <nl> + <nl> # # @ AutoClose <nl> # # @ Synchronized <nl>"
+-------------------------------------------------
+0.2
+move known test . xml
+Missing test data file
+new file mode 100644 <nl> index 0000000 . . ac06665 <nl> mmm / dev / null <nl> ppp b / compiler / testData / lazyResolve / namespaceComparator / innerObject . txt <nl> + namespace < root > <nl> + <nl> + internal final class B : jet . Any { <nl> + public final / * constructor * / fun < init > ( ) : B <nl> + internal final val Obj : B . Obj <nl> + } <nl>
+-------------------------------------------------
+0.2
+Enable override about build .
+Suppress another flaky test .
+"mmm a / guava - tests / test / com / google / common / io / LineBufferTest . java <nl> ppp b / guava - tests / test / com / google / common / io / LineBufferTest . java <nl> import java . util . List ; <nl> * <nl> * @ author Chris Nokleberg <nl> * / <nl> + @ AndroidIncompatible / / occasionally very slow <nl> public class LineBufferTest extends IoTestCase { <nl> public void testProcess ( ) throws IOException { <nl>"
+-------------------------------------------------
+0.2
+Update the target library .
+Commit missing lib .
+"new file mode 100644 <nl> index 000000000 . . 608b2eb68 <nl> Binary files / dev / null and b / lib / installer - exclude / httpcore - 4 . 0 - beta2 . jar differ <nl>"
+-------------------------------------------------
+0.2
+new icon for GDB .
+edit coverage colors icon
+new file mode 100644 <nl> index 0000000 . . 6011e2c <nl> Binary files / dev / null and b / platform / icons / src / general / editColors . png differ <nl>
+-------------------------------------------------
+0.2
+use use use travis .
+update travis conf
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> android : <nl> components : <nl> # Uncomment the lines below if you want to <nl> # use the latest revision of Android SDK Tools <nl> - # - platform - tools <nl> - # - tools <nl> + - platform - tools <nl> + - tools <nl> # The BuildTools version used by your project <nl> - build - tools - 23 . 0 . 2 <nl>"
+-------------------------------------------------
+0.19470019576785122
+Fixed NPE error in
+Fixed problem with getHighestFnScope method
+"mmm a / src / ScriptOrFnScope . java <nl> ppp b / src / ScriptOrFnScope . java <nl> class ScriptOrFnScope { <nl> void munge ( ) { <nl> - if ( ! markedForMunging ) { <nl> + if ( ! markedForMunging & & parentScope ! = null ) { <nl> return ; <nl> } <nl>"
+-------------------------------------------------
+0.19470019576785122
+"LPS - 43715 Ignore gradle gradle gradle gradle . gradle . gradle"
+"LPS - 43715 Apply the java configuration to all the submodules of the Liferay Registry"
+"new file mode 100644 <nl> index 000000000000 . . 1d3ed0a832bd <nl> mmm / dev / null <nl> ppp b / osgi / modules / liferay - registry / build . gradle <nl> + apply from : ' . . / gradle / java . gradle ' <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.19470019576785122
+Add missing root .
+Put that coffee down .
+mmm a / guava / src / com / google / common / io / Closer . java <nl> ppp b / guava / src / com / google / common / io / Closer . java <nl> import java . util . logging . Level ; <nl> * <nl> * @ author Colin Decker <nl> * / <nl> + / / Coffee ' s for { @ link Closer closers } only . <nl> final class Closer implements Closeable { <nl> / * * <nl>
+-------------------------------------------------
+0.19470019576785122
+Removed import import .
+"Removed non - needed imports"
+"mmm a / src / main / groovy / util / ConfigObject . java <nl> ppp b / src / main / groovy / util / ConfigObject . java <nl> * / <nl> package groovy . util ; <nl> - import groovy . lang . Closure ; <nl> - import groovy . lang . GroovyObject ; <nl> import groovy . lang . GroovyObjectSupport ; <nl> import groovy . lang . Writable ; <nl> import org . codehaus . groovy . runtime . DefaultGroovyMethods ; <nl>"
+-------------------------------------------------
+0.18612544500887301
+Fix suggested example instructions instructions in example
+Fix typo in the android section of concept / buckconfig
+"mmm a / docs / concept / buckconfig . soy <nl> ppp b / docs / concept / buckconfig . soy <nl> Specify the version of the Android SDK that all Android code <nl> in the project should be built against as follows : <nl> { literal } < pre class = "" prettyprint lang - ini "" > <nl> - [ alias ] <nl> + [ android ] <nl> target = Google Inc . : Google APIs : 21 <nl> < / pre > { / literal } <nl>"
+-------------------------------------------------
+0.18393972058572117
+Reset version properties .
+"Prepared version 0 . 2 - SNAPSHOT ."
+"mmm a / gradle . properties <nl> ppp b / gradle . properties <nl> - VERSION_NAME = 0 . 1 <nl> + VERSION_NAME = 0 . 2 - SNAPSHOT <nl> VERSION_CODE = 1 <nl> GROUP = pl . charmas . android <nl>"
+-------------------------------------------------
+0.18393972058572117
+Updated todo
+updated todo . txt
+"mmm a / java / libraries / sound / todo . txt <nl> ppp b / java / libraries / sound / todo . txt <nl> - Pitchtracker <nl> - isPlaying method for Synths <nl> - helper functions ( ampToDB , midiToFreq etc . . ) <nl> + - make non - bandlimited a pro option <nl> + <nl> EYE ON THE FUTURE <nl> - Multichannel panning <nl>"
+-------------------------------------------------
+0.18393972058572117
+updated .
+Modify gitignore file .
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> tmp / <nl> gen / <nl> local . properties <nl> . settings / <nl> - . loadpath <nl> \ No newline at end of file <nl> + . loadpath <nl> + note . txt <nl>"
+-------------------------------------------------
+0.17573142541048448
+EditDistanceJoiner EditDistanceJoiner .
+change EditDistanceJoiner . jar to multicore version
+"Binary files a / main / webapp / WEB - INF / lib / EditDistanceJoiner . jar and b / main / webapp / WEB - INF / lib / EditDistanceJoiner . jar differ <nl>"
+-------------------------------------------------
+0.17113903967753066
+Update build .
+prepare release v1 . 4
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < groupId > ru . lanwen . verbalregex < / groupId > <nl> < artifactId > java - verbal - expressions < / artifactId > <nl> - < version > 1 . 4 - SNAPSHOT < / version > <nl> + < version > 1 . 4 < / version > <nl> < packaging > jar < / packaging > <nl>"
+-------------------------------------------------
+0.17113903967753066
+Update parent version
+Bump parent pom reference .
+"mmm a / factory / pom . xml <nl> ppp b / factory / pom . xml <nl> < parent > <nl> < groupId > com . google . auto < / groupId > <nl> < artifactId > auto - parent < / artifactId > <nl> - < version > 2 < / version > <nl> + < version > 3 < / version > <nl> < / parent > <nl> < groupId > com . google . auto . factory < / groupId > <nl>"
+-------------------------------------------------
+0.16666666666666669
+Update the build . gradle .
+Fixed missing PR comment .
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> buildscript { <nl> allprojects { <nl> group = ' io . realm ' <nl> - version = new File ( "" $ { rootDir } / version . txt "" ) . text <nl> + version = new File ( "" version . txt "" ) . text <nl> repositories { <nl> jcenter ( ) <nl> } <nl>"
+-------------------------------------------------
+0.16666666666666669
+"Added STORM - Added Updated Add Add Add Add Add Add Add"
+"add STORM - 2081 to CHANGELOG"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> * STORM - 1868 : Modify TridentKafkaWordCount to run in distributed mode <nl> # # 1 . 0 . 3 <nl> + * STORM - 2081 : create external directory for storm - sql various data sources and move storm - sql - kafka to it <nl> * STORM - 1344 : Remove sql command from storm - jdbc build <nl> * STORM - 2070 : Fix sigar native binary download link <nl> * STORM - 2056 : Bugs in logviewer <nl>"
+-------------------------------------------------
+0.16666666666666669
+"f73a9eb - 1adbf89 Removed Removed pom - parent pom / parent pom"
+Remove forgotten CLI module reference in parent pom
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < modules > <nl> < module > deeplearning4j - core < / module > <nl> < module > deeplearning4j - scaleout < / module > <nl> - < module > deeplearning4j - cli < / module > <nl> < module > dl4j - caffe < / module > <nl> < module > deeplearning4j - ui - parent < / module > <nl> < module > deeplearning4j - cuda - 7 . 5 < / module > <nl>"
+-------------------------------------------------
+0.16666666666666669
+Updated for weekly release 1 .
+Updated help jar
+Binary files a / lib / zaphelp . jar and b / lib / zaphelp . jar differ <nl>
+-------------------------------------------------
+0.16666666666666669
+Change properties properties . properties .
+Upgrade version .
+"mmm a / gradle . properties <nl> ppp b / gradle . properties <nl> - version = 1 . 1 . 79 <nl> + version = 1 . 1 . 80 <nl>"
+-------------------------------------------------
+0.16666666666666669
+fix for bug bug fix .
+Fixed bug in getType
+"mmm a / src / android / notification / Notification . java <nl> ppp b / src / android / notification / Notification . java <nl> public class Notification { <nl> * Notification type can be one of pending or scheduled . <nl> * / <nl> public Type getType ( ) { <nl> - return isTriggered ( ) ? Type . TRIGGERED : Type . SCHEDULED ; <nl> + return isScheduled ( ) ? Type . SCHEDULED : Type . TRIGGERED ; <nl> } <nl> / * * <nl>"
+-------------------------------------------------
+0.16666666666666669
+Added the script build to .
+add profvis package to install dependencies
+"mmm a / dependencies / common / install - packages <nl> ppp b / dependencies / common / install - packages <nl> mv $ PACKAGE_ARCHIVE $ PACKAGE_ARCHIVE_SHA1 <nl> install rsconnect master <nl> + # temporary pointer to profvis until cran transition <nl> + install profvis master <nl> + <nl> # back to install - dir <nl> cd $ INSTALL_DIR <nl>"
+-------------------------------------------------
+0.1637461506155964
+removing obsolete header for .
+Remove fonts from sysui package .
+deleted file mode 100644 <nl> index 7b550ee . . 0000000 <nl> Binary files a / packages / SystemUI / assets / fonts / AndroidClock . ttf and / dev / null differ <nl> deleted file mode 100644 <nl> index a95d548 . . 0000000 <nl> Binary files a / packages / SystemUI / assets / fonts / AndroidClock2 . ttf and / dev / null differ <nl>
+-------------------------------------------------
+0.1637461506155964
+Check key Check Check .
+fixed data info merge issue .
+"mmm a / h2o - algos / src / main / java / hex / DataInfo . java <nl> ppp b / h2o - algos / src / main / java / hex / DataInfo . java <nl> public class DataInfo extends Keyed { <nl> } <nl> private DataInfo ( int nums ) { <nl> + _offset = false ; <nl> + _weights = false ; <nl> _nums = nums ; <nl> _catOffsets = new int [ ] { 0 } ; <nl> _predictor_transform = TransformType . NONE ; <nl>"
+-------------------------------------------------
+0.1637461506155964
+Update README . md .
+"Fix # 47 - Update docs"
+mmm a / README . md <nl> ppp b / README . md <nl> License <nl> = = = = = = = <nl> See LICENSE . md <nl> + <nl> + App uses Caldroid <nl> + = = = = = = = = = = = = = = = = = <nl> + Work Mate ( http : / / play . google . com / store / apps / details ? id = com . michaelmcneildev . workmate ) <nl>
+-------------------------------------------------
+0.1533407357715539
+"Added "" mark . com . com ( not be be created"
+"annotate stacktrace only in "" analyze stacktrace "" and thread dump console ."
+mmm a / python / src / com / jetbrains / python / console / PythonDebugLanguageConsoleView . java <nl> ppp b / python / src / com / jetbrains / python / console / PythonDebugLanguageConsoleView . java <nl> public class PythonDebugLanguageConsoleView extends JPanel implements ConsoleVie <nl> } <nl> @ Override <nl> + public void allowHeavyFilters ( ) { <nl> + myTextConsole . allowHeavyFilters ( ) ; <nl> + } <nl> + <nl> + @ Override <nl> public JComponent getComponent ( ) { <nl> return this ; <nl> } <nl>
+-------------------------------------------------
+0.15163266492815836
+Run submodule to .
+"now removed connect - js submodule"
+"deleted file mode 160000 <nl> index afc3505 . . 0000000 <nl> mmm a / lib / connect - js <nl> ppp / dev / null <nl> - Subproject commit afc3505586df7956c670e07d1319d2c5a996c5c2 <nl>"
+-------------------------------------------------
+0.15163266492815836
+correct correct src file
+Move framework tests into correct package
+similarity index 100 % <nl> rename from reark / src / test / java / io / reark / rxandroidarchitecture / utils / RxUtilsTest . java <nl> rename to reark / src / test / java / io / reark / reark / utils / RxUtilsTest . java <nl> similarity index 100 % <nl> rename from reark / src / test / java / io / reark / rxandroidarchitecture / utils / RxViewBinderTest . java <nl> rename to reark / src / test / java / io / reark / reark / utils / RxViewBinderTest . java <nl>
+-------------------------------------------------
+0.14325239843009505
+remove unused import .
+Remove stray import of java . util . List
+"mmm a / server / src / test / java / com / metamx / druid / index / v1 / IndexMergerTest . java <nl> ppp b / server / src / test / java / com / metamx / druid / index / v1 / IndexMergerTest . java <nl> import org . junit . Test ; <nl> import java . io . File ; <nl> import java . util . Arrays ; <nl> - import java . util . List ; <nl> / * * <nl> * / <nl>"
+-------------------------------------------------
+0.14285714285714285
+fix for issues IDEA fix IDEA .
+fix merge conflict resolution
+"mmm a / src / test / groovy / transform / stc / ClosuresSTCTest . groovy <nl> ppp b / src / test / groovy / transform / stc / ClosuresSTCTest . groovy <nl> class ClosuresSTCTest extends StaticTypeCheckingTestCase { <nl> printMessage { int x , int y - > x + y } <nl> } <nl> ' ' ' , ' Cannot find matching method ' <nl> + } <nl> / / GROOVY - 6189 <nl> void testSAMsInMethodSelection ( ) { <nl>"
+-------------------------------------------------
+0.141080287481769
+updating to java 1 . 4
+moving tools . jar inside the jre
+Binary files a / build / linux / jre . tgz and b / build / linux / jre . tgz differ <nl>
+-------------------------------------------------
+0.141080287481769
+copy for for release 0 .
+"Removed tag flyway - 1 . 6"
+"mmm a / . hgtags <nl> ppp b / . hgtags <nl> f01c482763a15803f07720aa2ab67d1e53257f13 flyway - parent - 1 . 4 <nl> 8bcf676b6160478ab3ea0bb556704e38f649f39e flyway - parent - 1 . 5 <nl> a2544374e39c68a5af4d0f8e320fa55c9ad14e49 flyway - parent - 1 . 6 <nl> 2b587d24e73f24c049700ffa1f645ccea2a31c93 flyway - 1 . 6 <nl> + 2b587d24e73f24c049700ffa1f645ccea2a31c93 flyway - 1 . 6 <nl> + 0000000000000000000000000000000000000000 flyway - 1 . 6 <nl>"
+-------------------------------------------------
+0.13406400920712788
+Update android . 4 .
+Add own support lib for SeriesGuide .
+"new file mode 100644 <nl> index 000000000 . . 99e063b33 <nl> Binary files / dev / null and b / SeriesGuide / libs / android - support - v4 . jar differ <nl>"
+-------------------------------------------------
+0.13179856905786336
+MinecraftForge / 54e06e841d1c8df24fc30e1ec3a51def67f58858 Add Fixed .
+MinecraftForge / FML @ c2b919d339e5f63271cfb67a77235c21c5c3b80e Don ' t validate signatures in dev env .
+"mmm a / fml <nl> ppp b / fml <nl> - Subproject commit c4b8a393f90b00ad7ee4992ea4341ffb6d676abb <nl> + Subproject commit c2b919d339e5f63271cfb67a77235c21c5c3b80e <nl>"
+-------------------------------------------------
+0.12500000000000003
+"Removed liquibase - negotiation module issue to ."
+removing failing / missing module
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < module > value < / module > <nl> < module > ordinal < / module > <nl> < module > builder < / module > <nl> - < module > cases < / module > <nl> < module > gson < / module > <nl> < module > mongo < / module > <nl> < module > value - annotations < / module > <nl>"
+-------------------------------------------------
+0.12262648039048077
+update STORM .
+"Added STORM - 1191 to Changelog"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 11 . 0 <nl> + * STORM - 1191 : bump timeout by 50 % due to intermittent travis build failures <nl> * STORM - 794 : Modify Spout async loop to treat activate / deactivate ASAP <nl> * STORM - 1196 : Upgrade to thrift 0 . 9 . 3 <nl> * STORM - 1155 : Supervisor recurring health checks <nl>"
+-------------------------------------------------
+0.11942188509563156
+Only the JDK7 build for travis
+Removing jdk6 from the Travis file again .
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> language : java <nl> jdk : <nl> - - openjdk6 <nl> - openjdk7 <nl> - oraclejdk7 <nl> - oraclejdk8 <nl>"
+-------------------------------------------------
+0.11809163818525367
+Allow movies info .
+Set min width for add dialog .
+"mmm a / SeriesGuide / src / main / res / layout / dialog_addshow . xml <nl> ppp b / SeriesGuide / src / main / res / layout / dialog_addshow . xml <nl> < RelativeLayout <nl> android : layout_width = "" match_parent "" <nl> android : layout_height = "" wrap_content "" <nl> + android : minWidth = "" 300dp "" <nl> android : padding = "" @ dimen / larger_padding "" <nl> android : focusable = "" true "" <nl> android : focusableInTouchMode = "" true "" <nl>"
+-------------------------------------------------
+0.11156508007421491
+fix gitignore
+Remove plugins / from gitignore
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> * . iws <nl> work / <nl> / data / <nl> - # / plugins / <nl> logs / <nl> . DS_Store <nl> build / <nl>"
+-------------------------------------------------
+0.11156508007421491
+remove .
+"Delete model - comprehension ."
+"deleted file mode 100644 <nl> index 23a5c07 . . 0000000 <nl> mmm a / design - docs / model - comprehension . md <nl> ppp / dev / null <nl> - This spec contains stories that improve the reporting / comprehension of the model and how is built . <nl> - <nl> - It is generally focussed on the rules based model . <nl> - <nl> - # # Story : Model report optionally gives type and textual representation of objects <nl> - <nl>"
+-------------------------------------------------
+0.11156508007421491
+Add .
+Add more locations to gitignore
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> data / <nl> META - INF / MANIFEST . MF <nl> gc . log <nl> voldsys $ _ * <nl> + . project <nl> + . settings <nl> + . pydevproject <nl>"
+-------------------------------------------------
+0.11156508007421491
+Create .
+Add notifications package index .
+new file mode 100644 <nl> index 0000000 . . 57b90e5 <nl> mmm / dev / null <nl> ppp b / javascript / src / components / notifications / index . jsx <nl> + export Notification from ' . / Notification ' ; <nl> + export NotificationsList from ' . / NotificationsList ' ; <nl>
+-------------------------------------------------
+0.11156508007421491
+update update
+update libwebp 0 . 5
+"Binary files a / xutils / libs / armeabi - v7a / libwebpbackport . so and b / xutils / libs / armeabi - v7a / libwebpbackport . so differ <nl> Binary files a / xutils / libs / armeabi / libwebpbackport . so and b / xutils / libs / armeabi / libwebpbackport . so differ <nl> Binary files a / xutils / libs / x86 / libwebpbackport . so and b / xutils / libs / x86 / libwebpbackport . so differ <nl>"
+-------------------------------------------------
+0.11111111111111109
+"changed installer - configuration to use correct library ."
+"Set javadoc encoding in utf - 8"
+"mmm a / gendoc . sh <nl> ppp b / gendoc . sh <nl> # ! / bin / bash <nl> - mvn site : site <nl> - mvn javadoc : javadoc - Daggregate = true - Dencoding = GBK - Ddocencoding = GBK - Dcharset = GBK <nl> \ No newline at end of file <nl> + mvn javadoc : javadoc - Daggregate = true - Dencoding = GBK - Ddocencoding = utf - 8 - Dcharset = utf - 8 <nl>"
+-------------------------------------------------
+0.10380107463819924
+"LPS - 1832 Add Source formatting"
+"LPS - 8222 Fixed invalid markup causing the template not being loaded ."
+"mmm a / portal - web / docroot / html / themes / _unstyled / templates / init . ftl <nl> ppp b / portal - web / docroot / html / themes / _unstyled / templates / init . ftl <nl> < # if $ layout . isPrivateLayout ( ) > <nl> < # assign $ community_default_url = $ community_default_private_url / > <nl> < / # if > <nl> - # end <nl> + < / # if > <nl> < # assign the_title = "" "" / > <nl>"
+-------------------------------------------------
+0.10209462756353925
+Fix view when Work on Mac view view .
+Fixes a crash of the QTKit video CaptureDevice on Snow Leopard reported by Yana Stamcheva .
+Binary files a / lib / native / mac / libjquicktime . jnilib and b / lib / native / mac / libjquicktime . jnilib differ <nl> mmm a / src / native / macosx / quicktime / net_java_sip_communicator_impl_neomedia_quicktime_QTCaptureDecompressedVideoOutput . m <nl> ppp b / src / native / macosx / quicktime / net_java_sip_communicator_impl_neomedia_quicktime_QTCaptureDecompressedVideoOutput . m <nl> Java_net_java_sip_communicator_impl_neomedia_quicktime_QTCaptureDecompressedVide <nl> automaticallyDropsLateVideoFrames <nl> = [ captureDecompressedVideoOutput automaticallyDropsLateVideoFrames ] ; <nl> } <nl> + else <nl> + automaticallyDropsLateVideoFrames = JNI_FALSE ; <nl> [ autoreleasePool release ] ; <nl> return automaticallyDropsLateVideoFrames ; <nl>
+-------------------------------------------------
+0.08556951983876535
+move assembly jar to jar .
+Try different sources setting to attach and deploy sources artifacts
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < executions > <nl> < execution > <nl> < id > attach - sources < / id > <nl> - < phase > deploy < / phase > <nl> < goals > <nl> - < goal > jar - no - fork < / goal > <nl> + < goal > jar < / goal > <nl> < / goals > <nl> < / execution > <nl> < / executions > <nl>"
+-------------------------------------------------
+0.08333333333333333
+Updated STORM description Updated Updated Updated Updated Updated Updated Updated Updated Updated
+"add STORM - 567 to changelog"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 10 . 0 <nl> + * STORM - 567 : Move Storm Documentation / Website from SVN to git <nl> * STORM - 533 : Add in client and server IConnection metrics . <nl> * STORM - 572 : Storm UI ' favicon . ico ' <nl> * STORM - 572 : Allow Users to pass TEST - TIMEOUT - MS for java <nl>"
+-------------------------------------------------
+0.08333333333333333
+add add add source source reminder add add to pam add add
+add todo on replacing pstreams with native implementation
+"mmm a / src / cpp / core / system / file_monitor / LinuxFileMonitor . cpp <nl> ppp b / src / cpp / core / system / file_monitor / LinuxFileMonitor . cpp <nl> # include "" FileMonitorImpl . hpp "" <nl> + / / TODO : replace pstreams with native implementation <nl> + <nl> / / TODO : investigate parallel package ( multicore ) interactions with file monitor <nl> / / TODO : should we be using lstat64 ? <nl>"
+-------------------------------------------------
+0.08333333333333333
+"moved dir dir to fix when IDEA - 123343 fix error error"
+updated core to support new glob patterns
+"Binary files a / plugins / editorconfig / lib / editorconfig - core - java . jar and b / plugins / editorconfig / lib / editorconfig - core - java . jar differ <nl>"
+-------------------------------------------------
+0.08333333333333333
+"don ' t try to make make "" GRAILS - Adding try"
+"fixed create - test - suite command"
+"mmm a / scripts / CreateTestSuite . groovy <nl> ppp b / scripts / CreateTestSuite . groovy <nl> grailsHome = Ant . antProject . properties . "" env . GRAILS_HOME "" <nl> includeTargets < < new File ( "" $ { grailsHome } / scripts / Init . groovy "" ) <nl> task ( ' default ' : "" Creates a new Grails test suite "" ) { <nl> + typeName = "" "" <nl> depends ( createTestSuite ) <nl> } <nl>"
+-------------------------------------------------
+0.08333333333333333
+"Fix use if IDEA - 38206 missing missing method parameter use use"
+Fixed method signature
+"mmm a / liquibase - core / src / test / groovy / liquibase / resource / AbstractResourceAccessorTest . groovy <nl> ppp b / liquibase - core / src / test / groovy / liquibase / resource / AbstractResourceAccessorTest . groovy <nl> class AbstractResourceAccessorTest extends Specification { <nl> protected void init ( ) { } <nl> @ Override <nl> - protected Set < URL > getRootPaths ( ) { <nl> + protected List < URL > getRootPaths ( ) { <nl> return rootUrlsSet ; <nl> } <nl>"
+-------------------------------------------------
+0.0820849986238988
+Update SpongeCommon
+Update SpongeCommon for DestructEntityEvent cause fix .
+"mmm a / SpongeCommon <nl> ppp b / SpongeCommon <nl> - Subproject commit 635cb77d303bbe082b4a01f795739b2a8b043d01 <nl> + Subproject commit 4bce0aa58332e6f9cf064236911198788eb4c2ac <nl>"
+-------------------------------------------------
+0.07357588823428847
+Add fullscreen mouse window .
+Fixed text highlight alignment when text has nonzero padding .
+mmm a / Libraries / Text / RCTText . m <nl> ppp b / Libraries / Text / RCTText . m <nl> _highlightLayer . fillColor = [ UIColor colorWithWhite : 0 alpha : 0 . 25 ] . CGColor ; <nl> [ self . layer addSublayer : _highlightLayer ] ; <nl> } <nl> + _highlightLayer . position = ( CGPoint ) { _contentInset . left , _contentInset . top } ; <nl> _highlightLayer . path = highlightPath . CGPath ; <nl> } else { <nl> [ _highlightLayer removeFromSuperlayer ] ; <nl>
+-------------------------------------------------
+0.07162619921504752
+Added tag for tag
+"Removed tag roboguice - 1 . 1 . 1"
+"mmm a / . hgtags <nl> ppp b / . hgtags <nl> aad229e4371b3b1f4a2b346761c04b8d866c3272 1 . 0 <nl> 4aeb7d83a31671d6785f0f533823b8da2e5d09f1 roboguice - 1 . 1 <nl> 0000000000000000000000000000000000000000 roboguice - 1 . 1 <nl> 8eac6f6140e16e89a98bf00163dba2cfb414523d roboguice - 1 . 1 . 1 <nl> + 8eac6f6140e16e89a98bf00163dba2cfb414523d roboguice - 1 . 1 . 1 <nl> + 0000000000000000000000000000000000000000 roboguice - 1 . 1 . 1 <nl>"
+-------------------------------------------------
+0.06766764161830635
+Update .
+"bump engins . io - client"
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < dependency > <nl> < groupId > io . socket < / groupId > <nl> < artifactId > engine . io - client < / artifactId > <nl> - < version > 0 . 8 . 1 < / version > <nl> + < version > 0 . 8 . 2 < / version > <nl> < / dependency > <nl> < dependency > <nl> < groupId > org . json < / groupId > <nl>"
+-------------------------------------------------
+0.06766764161830635
+Remove .
+Commit actually correct VizModel fix .
+"mmm a / VisualizationModule / src / org / gephi / visualization / VizModel . java <nl> ppp b / VisualizationModule / src / org / gephi / visualization / VizModel . java <nl> public class VizModel { <nl> / / TextModel <nl> textModel . writeXML ( writer ) ; <nl> - writer . writeEndElement ( ) ; <nl> / / Camera <nl> writer . writeStartElement ( "" cameraposition "" ) ; <nl>"
+-------------------------------------------------
+0.06766764161830635
+Update .
+Add CONTRIBUTING . md to manifest
+mmm a / Manifest . txt <nl> ppp b / Manifest . txt <nl> . travis . yml <nl> CHANGELOG . ja . rdoc <nl> CHANGELOG . rdoc <nl> + CONTRIBUTING . md <nl> C_CODING_STYLE . rdoc <nl> Gemfile <nl> LICENSE . txt <nl>
+-------------------------------------------------
+0.06766764161830635
+Update .
+"bump engine . io - client"
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < dependency > <nl> < groupId > io . socket < / groupId > <nl> < artifactId > engine . io - client < / artifactId > <nl> - < version > 0 . 6 . 1 < / version > <nl> + < version > 0 . 6 . 2 < / version > <nl> < / dependency > <nl> < dependency > <nl> < groupId > org . json < / groupId > <nl>"
+-------------------------------------------------
+0.060238842382440407
+add CHANGES for CHANGES .
+Fix changelog ( 2 . 1 . 15 is frozen )
+"mmm a / CHANGES . txt <nl> ppp b / CHANGES . txt <nl> - 2 . 1 . 15 <nl> + 2 . 1 . 16 <nl> * Reduce contention getting instances of CompositeType ( CASSANDRA - 10433 ) <nl> + <nl> + 2 . 1 . 15 <nl> * Account for partition deletions in tombstone histogram ( CASSANDRA - 12112 ) <nl> * Avoid stalling paxos when the paxos state expires ( CASSANDRA - 12043 ) <nl> * Remove finished incoming streaming connections from MessagingService ( CASSANDRA - 11854 ) <nl>"
+-------------------------------------------------
+0.055782540037107455
+Update build . gradle
+"Prepare next release v0 . 91 . 1 - SNAPSHOT"
+"mmm a / version . txt <nl> ppp b / version . txt <nl> - 0 . 91 . 0 <nl> \ No newline at end of file <nl> + 0 . 91 . 1 - SNAPSHOT <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0459849301464303
+Add fix namespace to the of js namespace
+"update crate - python and crash . zip . py to 0 . 4 . 0"
+"Binary files a / app / src / main / dist / bin / crash . zip . py and b / app / src / main / dist / bin / crash . zip . py differ <nl> mmm a / docs / versions . cfg <nl> ppp b / docs / versions . cfg <nl> [ versions ] <nl> - crate = 0 . 3 . 4 <nl> + crate = 0 . 4 . 0 <nl> crate - theme = 0 . 0 . 11 <nl> Jinja2 = 2 . 7 . 1 <nl>"
+-------------------------------------------------
+0.045111761078870896
+Update version .
+"prepare release checkstyle - 7 . 1 . 1"
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < groupId > com . puppycrawl . tools < / groupId > <nl> < artifactId > checkstyle < / artifactId > <nl> - < version > 7 . 1 . 1 - SNAPSHOT < / version > <nl> + < version > 7 . 1 . 1 < / version > <nl> < packaging > jar < / packaging > <nl> < name > checkstyle < / name > <nl>"
+-------------------------------------------------
+0.045111761078870896
+Updated test properties
+Updated the version string to the version of T4J
+"mmm a / library . properties <nl> ppp b / library . properties <nl> paragraph = With Twitter4J , you can easily integrate your Java application with <nl> version = 4 # This must be parsable as an int <nl> # The version as the user will see it . If blank , the version attribute will be used here <nl> - prettyVersion = 4 . 0 . 2 # This is treated as a String <nl> + prettyVersion = 4 . 0 . 4 # This is treated as a String <nl>"
+-------------------------------------------------
+0.045111761078870896
+51c2ec2 51c2ec2 .
+Fix Proguard flags causing crash in system bar .
+"new file mode 100644 <nl> index 0000000 . . 9ccc5a9 <nl> mmm / dev / null <nl> ppp b / packages / SystemUI / proguard . flags <nl> + - keep class com . android . systemui . statusbar . tablet . TabletStatusBarService { <nl> + public void notificationIconsClicked ( android . view . View ) ; <nl> + public void systemInfoClicked ( android . view . View ) ; <nl> + } <nl>"
+-------------------------------------------------
+0.0410424993119494
+Update with problem .
+Updates smack lib with replacing all console prints with java . logging one .
+"Binary files a / lib / installer - exclude / smack . jar and b / lib / installer - exclude / smack . jar differ <nl> Binary files a / lib / installer - exclude / smackx - debug . jar and b / lib / installer - exclude / smackx - debug . jar differ <nl> Binary files a / lib / installer - exclude / smackx . jar and b / lib / installer - exclude / smackx . jar differ <nl>"
+-------------------------------------------------
+0.0410424993119494
+Override over
+Add @ Override to overriden method .
+"mmm a / src / main / java / org / opentripplanner / routing / impl / GraphServiceImpl . java <nl> ppp b / src / main / java / org / opentripplanner / routing / impl / GraphServiceImpl . java <nl> public class GraphServiceImpl implements GraphService { <nl> } <nl> } <nl> - / / @ Override ? <nl> + @ Override <nl> public boolean reloadGraphs ( boolean preEvict ) { <nl> boolean allSucceeded = true ; <nl> synchronized ( graphSources ) { <nl>"
+-------------------------------------------------
+0.0410424993119494
+fix travis
+modify travis configuration to run embeded tests
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> language : java <nl> jdk : <nl> - oraclejdk7 <nl> install : "" mvn install - P - MediumTests - DskipTests = true "" <nl> - script : "" mvn test - P - MediumTests "" <nl> \ No newline at end of file <nl> + script : "" mvn verify - P - MediumTests - PEmbeededDBTestOnly "" <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.03232398928813501
+fix build .
+bump up druid version to 0 . 4 . 0
+"mmm a / realtime / pom . xml <nl> ppp b / realtime / pom . xml <nl> < parent > <nl> < groupId > com . metamx < / groupId > <nl> < artifactId > druid < / artifactId > <nl> - < version > 0 . 3 . 39 - SNAPSHOT < / version > <nl> + < version > 0 . 4 . 0 - SNAPSHOT < / version > <nl> < / parent > <nl> < dependencies > <nl>"
+-------------------------------------------------
+0.024893534183931972
+change version
+setting version to 1 . 0 . 62
+"mmm a / actor - server / version . sbt <nl> ppp b / actor - server / version . sbt <nl> - version in ThisBuild : = "" 1 . 0 . 62 - SNAPSHOT "" <nl> \ No newline at end of file <nl> + version in ThisBuild : = "" 1 . 0 . 62 "" <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.01763830939200683
+Fixed # 0 .
+"update h2o - flow version to 0 . 5 . 0 with . . . ( # 684 )"
+"mmm a / h2o - web / bower . json <nl> ppp b / h2o - web / bower . json <nl> "" tests "" <nl> ] , <nl> "" dependencies "" : { <nl> - "" h2o - flow "" : "" 0 . 4 . 54 "" <nl> + "" h2o - flow "" : "" 0 . 5 . 0 "" <nl> } , <nl> "" devDependencies "" : { } <nl> } <nl>"
+-------------------------------------------------
+0.01509869171115925
+Disable .
+update support annotations to 23 . 0 . 1
+"mmm a / library - core / build . gradle <nl> ppp b / library - core / build . gradle <nl> if ( project . hasProperty ( ' pushall ' ) | | project . hasProperty ( ' librarycoreonly ' ) ) { <nl> } <nl> dependencies { <nl> - compile ' com . android . support : support - v4 : 23 . 0 . 0 ' <nl> + compile ' com . android . support : support - v4 : 23 . 0 . 1 ' <nl> } <nl>"
+-------------------------------------------------
+0.01509869171115925
+Updated .
+removed the NOPASS flag from glm weights test .
+"similarity index 100 % <nl> rename from h2o - py / tests / testdir_algos / glm / pyunit_NOPASS_weightsGLM . py <nl> rename to h2o - py / tests / testdir_algos / glm / pyunit_weightsGLM . py <nl>"
+-------------------------------------------------
+0.01509869171115925
+fix test
+Fix test data so that it can be compiled
+"mmm a / idea / testData / kotlinAndJavaChecker / javaAgainstKotlin / EnumAutoGeneratedMethods . kt <nl> ppp b / idea / testData / kotlinAndJavaChecker / javaAgainstKotlin / EnumAutoGeneratedMethods . kt <nl> package test <nl> enum class TestEnum { <nl> - first second third <nl> + first , second , third <nl> } <nl>"
+-------------------------------------------------
+0.00915781944436709
+wrapper wrapper
+"Generate wrapper with 2 . 7 - rc - 1"
+"Binary files a / gradle / wrapper / gradle - wrapper . jar and b / gradle / wrapper / gradle - wrapper . jar differ <nl>"
+-------------------------------------------------
+0.00915781944436709
+Updated version
+"setting version to 3 . 0 . 1 - SNAPSHOT"
+"mmm a / actor - server / version . sbt <nl> ppp b / actor - server / version . sbt <nl> - version in ThisBuild : = "" 3 . 0 . 0 "" <nl> \ No newline at end of file <nl> + version in ThisBuild : = "" 3 . 0 . 1 - SNAPSHOT "" <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.00915781944436709
+Fix .
+Added Recognizer . removeErrorListener ( ) to Recognizer . py
+mmm a / src / antlr4 / Recognizer . py <nl> ppp b / src / antlr4 / Recognizer . py <nl> class Recognizer ( object ) : <nl> def addErrorListener ( self , listener ) : <nl> self . _listeners . append ( listener ) <nl> + def removeErrorListener ( self , listener ) : <nl> + self . _listeners . remove ( listener ) <nl> + <nl> def removeErrorListeners ( self ) : <nl> self . _listeners = [ ] <nl>
+-------------------------------------------------
+0.00915781944436709
+Updated version
+"setting version to 1 . 0 . 133 - SNAPSHOT"
+"mmm a / actor - server / version . sbt <nl> ppp b / actor - server / version . sbt <nl> - version in ThisBuild : = "" 1 . 0 . 132 "" <nl> \ No newline at end of file <nl> + version in ThisBuild : = "" 1 . 0 . 133 - SNAPSHOT "" <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.00915781944436709
+Add .
+Added encrypted bintray api key to the travis file .
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> jdk : <nl> - oraclejdk7 <nl> env : <nl> - - TERM = dumb <nl> + matrix : <nl> + - TERM = dumb <nl> + global : <nl> + secure : ZjU6SpkLzTAJr9qmxKDSI0uA8eJ / r5n58 / equD6ifDlCBUasxPxOwaIARuNjhH45UCFOQDO9HMmvD7IWufyYl0OpACMM6MZ / 0JX5Qsd + vhmBGirl6H3rRbVpvyoSI1J2xqJXy9 / yTU54IYMDv3R7suinvmKXYHCqJ3h7ke + m4Ik = <nl> install : <nl> - true <nl>"
+-------------------------------------------------
+0.006105212962911393
+CursorToBulkCursorAdapter d6dfca8 .
+Call close ( ) instead of deactivate ( ) in CursorToBulkCursorAdaptor . close ( )
+"mmm a / core / java / android / database / CursorToBulkCursorAdaptor . java <nl> ppp b / core / java / android / database / CursorToBulkCursorAdaptor . java <nl> public final class CursorToBulkCursorAdaptor extends BulkCursorNative <nl> public void close ( ) { <nl> maybeUnregisterObserverProxy ( ) ; <nl> - mCursor . deactivate ( ) ; <nl> - <nl> + mCursor . close ( ) ; <nl> } <nl> public int requery ( IContentObserver observer , CursorWindow window ) { <nl>"
+-------------------------------------------------
+0.004374576245646989
+changing used .
+Fix bug 558 , PImage . save ( ) method not working with get ( )
+"mmm a / core / src / processing / core / PImage . java <nl> ppp b / core / src / processing / core / PImage . java <nl> public class PImage implements PConstants , Cloneable { <nl> if ( y + h > height ) h = height - y ; <nl> PImage newbie = new PImage ( w , h , format ) ; <nl> + newbie . parent = parent ; <nl> int index = y * width + x ; <nl> int index2 = 0 ; <nl>"
+-------------------------------------------------
+0.0020433857192320333
+Add .
+Added missing method to check if a BaseObject3D . java is visible .
+mmm a / src / rajawali / BaseObject3D . java <nl> ppp b / src / rajawali / BaseObject3D . java <nl> public class BaseObject3D implements IObject3D , Comparable < BaseObject3D > , ITrans <nl> public boolean isDoubleSided ( ) { <nl> return mDoubleSided ; <nl> } <nl> + <nl> + public boolean isVisible ( ) { <nl> + return mIsVisible ; <nl> + } <nl> public void setDoubleSided ( boolean doubleSided ) { <nl> this . mDoubleSided = doubleSided ; <nl>
+-------------------------------------------------
+"7.48518298877006e-05"
+Updating Alloy
+"LPS - 11911 - Add application search input does not get focus in IE ; Updating Alloy to rev . 59820"
+"Binary files a / portal - web / third - party / alloy - 1 . 0 . 1 . zip and b / portal - web / third - party / alloy - 1 . 0 . 1 . zip differ <nl>"
+-------------------------------------------------
+0.0
+adding more more data script ` to fix travis script script script
+"prepare release deeplearning4j - parent - 0 . 0 . 3 . 2 - SNAPSHOT"
+old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl> old mode 100644 <nl> new mode 100755 <nl>
+-------------------------------------------------
+0.0
+import import
+convert GitVersionTest to junit
+"mmm a / plugins / git4idea / tests / git4idea / tests / GitVersionTest . java <nl> ppp b / plugins / git4idea / tests / git4idea / tests / GitVersionTest . java <nl> package git4idea . tests ; <nl> import com . intellij . openapi . util . SystemInfo ; <nl> import git4idea . config . GitVersion ; <nl> - import org . testng . annotations . Test ; <nl> + import org . junit . Test ; <nl> import java . lang . reflect . Field ; <nl>"
+-------------------------------------------------
+0.0
+fix Readme
+update README
+"mmm a / README . md <nl> ppp b / README . md <nl> layout . setOnRefreshListener ( new PullRefreshLayout . OnRefreshListener ( ) { <nl> } <nl> } ) ; <nl> - / / refresh complete <nl> + / / refresh complete <nl> layout . setRefreshing ( false ) ; <nl> ` ` ` <nl>"
+-------------------------------------------------
+0.0
+ignore
+"Added test - output to ."
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> . classpath <nl> . settings <nl> target <nl> + test - output <nl> pkg <nl> * . jar <nl> * . iws <nl>"
+-------------------------------------------------
+0.0
+"Do PY - PY Do PY - PY Do PY - PY"
+run manage . py as __main__
+"mmm a / python / helpers / pycharm / django_manage . py <nl> ppp b / python / helpers / pycharm / django_manage . py <nl> if not manage_file : <nl> if __name__ = = "" __main__ "" : <nl> fixGetpass ( ) <nl> - run_module ( manage_file ) <nl> + run_module ( manage_file , None , ' __main__ ' ) <nl>"
+-------------------------------------------------
+0.0
+Fixing docs
+"run spark - submit command with bash - c"
+"mmm a / deploy / bin / oryx - run . sh <nl> ppp b / deploy / bin / oryx - run . sh <nl> batch | speed | serving ) <nl> SPARK_SUBMIT_CMD = "" $ { SPARK_SUBMIT_CMD } $ { LAYER_JAR } "" <nl> echo "" $ { SPARK_SUBMIT_CMD } "" <nl> - $ { SPARK_SUBMIT_CMD } <nl> + bash - c "" $ { SPARK_SUBMIT_CMD } "" <nl> ; ; <nl> yarn ) <nl>"
+-------------------------------------------------
+0.0
+changed plugin
+Fixed version number
+"mmm a / reactor / pom . xml <nl> ppp b / reactor / pom . xml <nl> < parent > <nl> < groupId > com . iluwatar < / groupId > <nl> < artifactId > java - design - patterns < / artifactId > <nl> - < version > 1 . 7 . 0 < / version > <nl> + < version > 1 . 6 . 0 < / version > <nl> < / parent > <nl> < artifactId > reactor < / artifactId > <nl> < dependencies > <nl>"
+-------------------------------------------------
+0.0
+Update build .
+Built the latest snapshot
+"deleted file mode 100644 <nl> index e8ca33b . . 0000000 <nl> Binary files a / sample / libs / universal - image - loader - 1 . 9 . 3 . jar and / dev / null differ <nl> new file mode 100644 <nl> index 0000000 . . b07d866 <nl> Binary files / dev / null and b / sample / libs / universal - image - loader - 1 . 9 . 4 - SNAPSHOT . jar differ <nl>"
+-------------------------------------------------
+0.0
+0f27cd0 0f27cd0
+Reset loaded document on script execution .
+"mmm a / community / browser / app / scripts / services / Editor . coffee <nl> ppp b / community / browser / app / scripts / services / Editor . coffee <nl> angular . module ( ' neo4jApp . services ' ) <nl> else <nl> @ addToHistory ( input ) unless ( Settings . filemode and @ document ? . id ) <nl> @ maximize ( no ) <nl> + @ document = null <nl> execCurrent : - > <nl> @ execScript ( @ content ) <nl>"
+-------------------------------------------------
+0.0
+Correct the test name name .
+Fixed LONG_DESC
+"mmm a / yinst / yuicompressor . yicf <nl> ppp b / yinst / yuicompressor . yicf <nl> PRODUCT_NAME = yuicompressor <nl> VERSION = 1 . 0 <nl> - LONG_DESC = ` cat README . yuicompressor ` <nl> + LONG_DESC = ` cat . . / doc / README ` <nl> SHORT_DESC = YUI Compressor <nl> PERM = 0644 <nl> OWNER = root <nl>"
+-------------------------------------------------
+0.0
+fixed error
+"IDEA - 103375 Fix understanding Git submodule roots"
+"mmm a / plugins / git4idea / src / git4idea / GitUtil . java <nl> ppp b / plugins / git4idea / src / git4idea / GitUtil . java <nl> public class GitUtil { <nl> } <nl> pathToDir = FileUtil . toSystemIndependentName ( canonicalPath ) ; <nl> } <nl> - return VcsUtil . getVirtualFile ( pathToDir ) ; <nl> + return VcsUtil . getVirtualFileWithRefresh ( new File ( pathToDir ) ) ; <nl> } <nl> / * * <nl>"
+-------------------------------------------------
+0.0
+Update build . gradle .
+bump version code
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> android { <nl> defaultConfig { <nl> minSdkVersion 14 <nl> targetSdkVersion 21 <nl> - versionCode 54 <nl> - versionName "" 1 . 2 . 0 - beta "" <nl> + versionCode 56 <nl> + versionName "" 1 . 2 . 0 "" <nl> } <nl> compileOptions { <nl>"
+-------------------------------------------------
+0.0
+Update ui for ui ui fix in the fix issue in login
+align chevron vertically with text to right
+"mmm a / bigbluebutton - html5 / imports / ui / components / chat / styles . scss <nl> ppp b / bigbluebutton - html5 / imports / ui / components / chat / styles . scss <nl> font - size : 85 % ; <nl> } <nl> } <nl> + <nl> + [ class = ' icon - bbb - left - arrow ' ] { <nl> + padding - bottom : 5px ; <nl> + } <nl>"
+-------------------------------------------------
+0.0
+701ae4bd 518d0a63
+Fixes
+mmm a / src / rajawali / Geometry3D . java <nl> ppp b / src / rajawali / Geometry3D . java <nl> public class Geometry3D { <nl> if ( type = = BufferType . SHORT_BUFFER ) <nl> byteSize = SHORT_SIZE_BYTES ; <nl> + buffer . rewind ( ) ; <nl> GLES20 . glBindBuffer ( target , handle ) ; <nl> GLES20 . glBufferData ( target , buffer . limit ( ) * byteSize , buffer , usage ) ; <nl> GLES20 . glBindBuffer ( target , 0 ) ; <nl>
+-------------------------------------------------
+0.0
+c9088c5 c9088c5
+Fix FrameworksServicesTests . apk to include libnativehelper . so
+"mmm a / services / tests / servicestests / Android . mk <nl> ppp b / services / tests / servicestests / Android . mk <nl> LOCAL_PACKAGE_NAME : = FrameworksServicesTests <nl> LOCAL_CERTIFICATE : = platform <nl> - LOCAL_JNI_SHARED_LIBRARIES : = libapfjni <nl> + LOCAL_JNI_SHARED_LIBRARIES : = \ <nl> + libapfjni \ <nl> + libnativehelper <nl> include $ ( BUILD_PACKAGE ) <nl>"
+-------------------------------------------------
+0.0
+fix build .
+"Fix compilation with - Pyarn"
+mmm a / spark / pom . xml <nl> ppp b / spark / pom . xml <nl> < scala . binary . version > 2 . 10 < / scala . binary . version > <nl> < hadoop . version > 2 . 3 . 0 < / hadoop . version > <nl> + < yarn . version > $ { hadoop . version } < / yarn . version > <nl> < / properties > <nl> < dependencies > <nl>
+-------------------------------------------------
+0.0
+Updated samples
+Upgrade ui spice list sample
+"mmm a / RoboSpice - samples <nl> ppp b / RoboSpice - samples <nl> - Subproject commit 69e504a3e9f04a3d63c482e4168db4e464b22656 <nl> + Subproject commit 1f7ea0557a1b112139efafe56381c3707485c414 <nl>"
+-------------------------------------------------
+0.0
+Test for testing Update .
+"adding logback - test file ( disable logging in tests )"
+"new file mode 100644 <nl> index 0000000 . . a48239f <nl> mmm / dev / null <nl> ppp b / src / test / resources / logback - test . xml <nl> + < ? xml version = "" 1 . 0 "" encoding = "" UTF - 8 "" ? > <nl> + < configuration > <nl> + < root / > <nl> + < / configuration > <nl>"
+-------------------------------------------------
+0.0
+Committing zero zero zero zero zero zero zero zero zero zero zero
+"destroy folding model in three - side viewer"
+"mmm a / platform / diff - impl / src / com / intellij / diff / tools / simple / SimpleThreesideDiffViewer . java <nl> ppp b / platform / diff - impl / src / com / intellij / diff / tools / simple / SimpleThreesideDiffViewer . java <nl> public class SimpleThreesideDiffViewer extends ThreesideTextDiffViewer { <nl> } <nl> myInvalidDiffChanges . clear ( ) ; <nl> + myFoldingModel . destroy ( ) ; <nl> + <nl> myContentPanel . repaintDividers ( ) ; <nl> myStatusPanel . update ( ) ; <nl> } <nl>"
+-------------------------------------------------
+0.0
+Test commit
+Add placeholders into required ( by Android tools ) folders .
+new file mode 100644 <nl> index 000000000 . . e69de29bb <nl> new file mode 100644 <nl> index 000000000 . . e69de29bb <nl> new file mode 100644 <nl> index 000000000 . . e69de29bb <nl>
+-------------------------------------------------
+0.0
+Update README . md
+Added instructions on how to build the files from ndk
+"mmm a / README . md <nl> ppp b / README . md <nl> Copy the the following files / folders to your projects libs folder . <nl> * bin / gpuimage . jar <nl> # # Create libs / armeabi <nl> - <nl> \ No newline at end of file <nl> + Run the following command in the library folder . Make sure you have android - ndk in your PATH . <nl> + <nl> + ndk - build <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0
+removed the unused jar jar
+"added commons - io as new commons - fileupload depends on it"
+"new file mode 100644 <nl> index 0000000000 . . b2867cdde4 <nl> Binary files / dev / null and b / lib / commons - io - 1 . 2 . jar differ <nl>"
+-------------------------------------------------
+0.0
+015b3b37e b09eceac0
+Remove unnecessary dependency on Clang headers .
+"mmm a / v8 / renderscript / rs_support / Android . mk <nl> ppp b / v8 / renderscript / rs_support / Android . mk <nl> endif <nl> LOCAL_LDFLAGS + = - llog - ldl <nl> LOCAL_NDK_STL_VARIANT : = stlport_static <nl> - LOCAL_C_INCLUDES + = external / clang / lib / Headers <nl> LOCAL_C_INCLUDES + = frameworks / compile / libbcc / include <nl>"
+-------------------------------------------------
+0.0
+remove
+Remove old unused jar
+deleted file mode 100644 <nl> index a75713f87007 . . 000000000000 <nl> Binary files a / lib / development / netscape . jar and / dev / null differ <nl>
+-------------------------------------------------
+0.0
+"LPS - 51038 Update SDK"
+Fix Gradle paths
+"Binary files a / tools / liferay - plugins - sdk - 7 . 0 . 0 . zip and b / tools / liferay - plugins - sdk - 7 . 0 . 0 . zip differ <nl>"
+-------------------------------------------------
+0.0
+upped missing configuration
+set origin type with normal type
+mmm a / src / main / org / codehaus / groovy / ast / FieldNode . java <nl> ppp b / src / main / org / codehaus / groovy / ast / FieldNode . java <nl> public class FieldNode extends AnnotatedNode implements Opcodes , Variable { <nl> public void setType ( ClassNode type ) { <nl> this . type = type ; <nl> + this . originType = type ; <nl> dynamicTyped | = type = = ClassHelper . DYNAMIC_TYPE ; <nl> } <nl>
+-------------------------------------------------
+0.0
+75b3fafe d11ff72
+Marking the Settings ContentProvider as singleUser
+"mmm a / packages / SettingsProvider / AndroidManifest . xml <nl> ppp b / packages / SettingsProvider / AndroidManifest . xml <nl> android : multiprocess = "" false "" <nl> android : exported = "" true "" <nl> android : writePermission = "" android . permission . WRITE_SETTINGS "" <nl> + android : singleUser = "" true "" <nl> android : initOrder = "" 100 "" / > <nl> < / application > <nl> < / manifest > <nl>"
+-------------------------------------------------
+0.0
+Add integration maven profile to test .
+"added info for forked - path workaround"
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < artifactId > maven - release - plugin < / artifactId > <nl> < version > 2 . 0 < / version > <nl> < configuration > <nl> + < ! - - http : / / jira . codehaus . org / browse / MGPG - 9 - - > <nl> < mavenExecutorId > forked - path < / mavenExecutorId > <nl> < / configuration > <nl> < / plugin > <nl>"
+-------------------------------------------------
+0.0
+Add needed .
+Adding basic metric support
+"mmm a / ratpack - metrics / src / main / resources / META - INF / aop . xml <nl> ppp b / ratpack - metrics / src / main / resources / META - INF / aop . xml <nl> < aspects > <nl> < aspect name = "" org . ratpackframework . metrics . MetricCollectionAspect "" / > <nl> < / aspects > <nl> - < / aspectj > <nl> \ No newline at end of file <nl> + < / aspectj > <nl>"
+-------------------------------------------------
+0.0
+Updates fmj to r36 .
+Replaces FMJ with a newer version that properly logs packets discarded in the RTP packet queue
+"Binary files a / lib / installer - exclude / fmj . jar and b / lib / installer - exclude / fmj . jar differ <nl>"
+-------------------------------------------------
+0.0
+remove .
+removed echo
+"mmm a / build . xml <nl> ppp b / build . xml <nl> < target name = "" init "" > <nl> < delete dir = "" $ { bin } "" / > <nl> < mkdir dir = "" $ { bin } "" / > <nl> - < echo message = "" $ { java . home } "" / > <nl> < / target > <nl> < path id = "" classpath "" > <nl>"
+-------------------------------------------------
+0.0
+added sip to the list .
+adding las vegas wav file
+new file mode 100644 <nl> index 0000000 . . d32f65d <nl> Binary files / dev / null and b / wav / las_vegas . wav differ <nl>
+-------------------------------------------------
+0.0
+Fixed typo
+"using glassfish - integration instead of glassfish"
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < ! - - <nl> Temporary till there is a jersey promotion profile <nl> - - > <nl> - < promotionProfile > glassfish < / promotionProfile > <nl> + < promotionProfile > glassfish - integration < / promotionProfile > <nl> < message > JERSEY - $ { project . version } < / message > <nl> < / configuration > <nl> < / plugin > <nl>"
+-------------------------------------------------
+0.0
+Removed .
+removing binary jars
+deleted file mode 100644 <nl> index e30f15e . . 0000000 <nl> Binary files a / gtc2013 / MultiDimRay2 / MultiDimRay2 . jar and / dev / null differ <nl> deleted file mode 100644 <nl> index f7f9a09 . . 0000000 <nl> Binary files a / gtc2013 / MultiDimRay2 / raylib . jar and / dev / null differ <nl>
+-------------------------------------------------
+0.0
+Added a Favicon .
+updated favicon
+"new file mode 100644 <nl> index 000000000 . . 8b2b4f9c3 <nl> Binary files / dev / null and b / bigbluebutton - config / web / images / favicon . ico differ <nl>"
+-------------------------------------------------
+0.0
+9e90a99 38ecb1e
+Use an opaque background for the search bar in legacy SearchDialog .
+"mmm a / core / res / res / layout / search_bar . xml <nl> ppp b / core / res / res / layout / search_bar . xml <nl> android : layout_height = "" wrap_content "" <nl> android : orientation = "" horizontal "" <nl> android : focusable = "" true "" <nl> - android : background = "" ? attr / actionModeBackground "" <nl> + android : background = "" @ drawable / cab_background_opaque_holo_light "" <nl> android : descendantFocusability = "" afterDescendants "" > <nl> < RelativeLayout <nl>"
+-------------------------------------------------
+0.0
+fixed NPE .
+Temporarily disable JavaLineIndentProvider not to break tests
+"mmm a / java / java - impl / src / com / intellij / codeInsight / editorActions / JavaLineIndentProvider . java <nl> ppp b / java / java - impl / src / com / intellij / codeInsight / editorActions / JavaLineIndentProvider . java <nl> public class JavaLineIndentProvider extends JavaLikeLangLineIndentProvider { <nl> @ Override <nl> public boolean isSuitableFor ( @ Nullable Language language ) { <nl> - return language ! = null & & language . isKindOf ( JavaLanguage . INSTANCE ) ; <nl> + return false ; <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.0
+Fixed typo
+Don ' t draw the current state if we are forcing another invalidation .
+"mmm a / library / src / com / viewpagerindicator / TitlePageIndicator . java <nl> ppp b / library / src / com / viewpagerindicator / TitlePageIndicator . java <nl> public class TitlePageIndicator extends View implements PageIndicator { <nl> / / Make sure we ' re on a page that still exists <nl> if ( mCurrentPage > = boundsSize ) { <nl> setCurrentItem ( boundsSize - 1 ) ; <nl> + return ; <nl> } <nl> final int countMinusOne = count - 1 ; <nl>"
+-------------------------------------------------
+0.0
+Fix provided .
+"Prevent spring - boot - actuator - docs from pulling in H2"
+"mmm a / spring - boot - actuator - docs / pom . xml <nl> ppp b / spring - boot - actuator - docs / pom . xml <nl> < dependency > <nl> < groupId > com . h2database < / groupId > <nl> < artifactId > h2 < / artifactId > <nl> + < scope > provided < / scope > <nl> < / dependency > <nl> < dependency > <nl> < groupId > junit < / groupId > <nl>"
+-------------------------------------------------
+0.0
+Updated changelog
+Fix snapshot version
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # Changelog <nl> - # 2 . 2 . 0 ( 16 / 07 / 2015 ) - SNAPSHOT <nl> + # 2 . 1 . 1 ( 29 / 02 / 2016 ) - SNAPSHOT <nl> - Added AppCompat Styles ( AppCompatTextView will now pickup textViewStyle etc ) . Thanks @ paul - turner <nl> - Fix for Toolbar not inflating ` TextView ` s upfront . <nl>"
+-------------------------------------------------
+0.0
+use missing API
+"starting 0 . 5 . 5 - SNAPSHOT"
+"mmm a / project . clj <nl> ppp b / project . clj <nl> - ( defproject storm "" 0 . 5 . 4 "" <nl> + ( defproject storm "" 0 . 5 . 5 - SNAPSHOT "" <nl> : source - path "" src / clj "" <nl> : test - path "" test / clj "" <nl> : java - source - path "" src / jvm "" <nl>"
+-------------------------------------------------
+0.0
+fix remove build feature issues .
+unused include file
+"mmm a / src / cpp / server / ServerMain . cpp <nl> ppp b / src / cpp / server / ServerMain . cpp <nl> # include < signal . h > <nl> # include < core / Error . hpp > <nl> - # include < core / FileLock . hpp > <nl> # include < core / LogWriter . hpp > <nl> # include < core / ProgramStatus . hpp > <nl> # include < core / ProgramOptions . hpp > <nl>"
+-------------------------------------------------
+0.0
+Update README . md
+Clarify prev / next Meaning
+"mmm a / README . md <nl> ppp b / README . md <nl> or <nl> # # Reference other views <nl> - Reference previous view using ` prev ` , next view using ` next ` <nl> + Reference previous view using ` prev ` , next view using ` next ` ( Position in the XML layout file ) <nl> ! [ IMG ] ( imgs / s4 . png ) <nl>"
+-------------------------------------------------
+0.0
+keep align .
+Fixing debian init script to work on ubuntu LTS
+"mmm a / src / deb / init . d / elasticsearch <nl> ppp b / src / deb / init . d / elasticsearch <nl> case "" $ 1 "" in <nl> fi <nl> if [ - n "" $ MAX_MAP_COUNT "" ] ; then <nl> - sysctl - qw vm . max_map_count = $ MAX_MAP_COUNT <nl> + sysctl - q - w vm . max_map_count = $ MAX_MAP_COUNT <nl> fi <nl> # Start Daemon <nl>"
+-------------------------------------------------
+0.0
+Fix build build . properties
+run Findbugs on main only ( # 4131 )
+mmm a / build . gradle <nl> ppp b / build . gradle <nl> findbugs { <nl> toolVersion = ' 3 . 0 . 1 ' <nl> effort = ' max ' <nl> reportLevel = ' low ' <nl> + sourceSets = [ sourceSets . main ] <nl> } <nl> findbugsMain { <nl>
+-------------------------------------------------
+0.0
+Import enabled
+"added missing OSGI - INF to build . properties"
+"mmm a / bundles / config / org . openhab . config . core / build . properties <nl> ppp b / bundles / config / org . openhab . config . core / build . properties <nl> output . . = target / classes / <nl> bin . includes = META - INF / , \ <nl> - . <nl> + . , \ <nl> + OSGI - INF / <nl> source . . = src / main / java / <nl>"
+-------------------------------------------------
+0.0
+Update build . base .
+removed unused line
+"mmm a / library / build . gradle <nl> ppp b / library / build . gradle <nl> android { <nl> defaultConfig { <nl> minSdkVersion 14 <nl> targetSdkVersion 23 <nl> - versionCode 5 <nl> - versionName "" 1 . 1 . 1 "" <nl> + versionCode 6 <nl> + versionName "" 1 . 1 . 2 "" <nl> } <nl> buildTypes { <nl> release { <nl>"
+-------------------------------------------------
+0.0
+Add new new gif screen .
+Added Screens
+new file mode 100644 <nl> index 0000000 . . f0384e3 <nl> Binary files / dev / null and b / Screens / Screen . gif differ <nl>
+-------------------------------------------------
+0.0
+Add missing padding to .
+Changed the behaviour of sendKey so that any key event kan be sent
+"mmm a / robotium - solo / src / main / java / com / jayway / android / robotium / solo / Solo . java <nl> ppp b / robotium - solo / src / main / java / com / jayway / android / robotium / solo / Solo . java <nl> public class Solo { <nl> robotiumUtils . sendKeyCode ( KeyEvent . KEYCODE_DEL ) ; <nl> break ; <nl> default : <nl> + robotiumUtils . sendKeyCode ( key ) ; <nl> break ; <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.0
+fbc4bbc b6730aa
+Add mention of 4321 / 4411 to NEWS
+"mmm a / NEWS . txt <nl> ppp b / NEWS . txt <nl> Features <nl> Upgrading <nl> - - - - - - - - - <nl> - - Nothing specific to this release , but please see 1 . 1 if you are upgrading <nl> - from a previous version . <nl> + - If you have column families using the LeveledCompactionStrategy , you should run scrub on those column families . <nl> Features <nl> - - - - - - - - <nl>"
+-------------------------------------------------
+0.0
+Add the logging for unknown .
+"Ninja - add debug log statement to mv builder scheduled at startup"
+"mmm a / src / java / org / apache / cassandra / service / CassandraDaemon . java <nl> ppp b / src / java / org / apache / cassandra / service / CassandraDaemon . java <nl> public class CassandraDaemon <nl> { <nl> keyspace . viewManager . buildAllViews ( ) ; <nl> } <nl> + logger . debug ( "" Completed submission of build tasks for any materialized views defined at startup "" ) ; <nl> } <nl> } ; <nl>"
+-------------------------------------------------
+0.0
+Updated sample apk
+updated examples
+"new file mode 100755 <nl> index 0000000 . . e353b72 <nl> Binary files / dev / null and b / materialtabs - Icons . apk differ <nl> new file mode 100755 <nl> index 0000000 . . c71ad25 <nl> Binary files / dev / null and b / materialtabs - Text . apk differ <nl>"
+-------------------------------------------------
+0.0
+Update test . properties tsk for MiniLlapCluster
+added conditions section
+new file mode 100644 <nl> index 0000000 . . e69de29 <nl>
+-------------------------------------------------
+0.0
+Ignore / dist / .
+excluded netbeans path and building paths
+new file mode 100644 <nl> index 00000000 . . 30b572be <nl> mmm / dev / null <nl> ppp b / . gitignore <nl> + / build / nbproject / private / <nl> + / build / build / <nl> + / build / dist / <nl> \ No newline at end of file <nl>
+-------------------------------------------------
+0.0
+a1a97a4 f17d77c
+Change default fbo cache size to 0
+"mmm a / libs / hwui / Properties . h <nl> ppp b / libs / hwui / Properties . h <nl> enum DebugLevel { <nl> # define DEFAULT_PATCH_CACHE_SIZE 128 / / in kB <nl> # define DEFAULT_GRADIENT_CACHE_SIZE 0 . 5f <nl> # define DEFAULT_DROP_SHADOW_CACHE_SIZE 2 . 0f <nl> - # define DEFAULT_FBO_CACHE_SIZE 16 <nl> + # define DEFAULT_FBO_CACHE_SIZE 0 <nl> # define DEFAULT_TEXTURE_CACHE_FLUSH_RATE 0 . 6f <nl>"
+-------------------------------------------------
+0.0
+Updated specified
+"Added STORM - 166 to Changlog"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 11 . 0 <nl> + * STORM - 166 : Nimbus HA <nl> * STORM - 976 : Config storm . logback . conf . dir is specific to previous logging framework <nl> * STORM - 995 : Fix excessive logging <nl> * STORM - 837 : HdfsState ignores commits <nl>"
+-------------------------------------------------
+0.0
+Fix NPE conflict in
+Cancel all pending root scan requests on dispose .
+mmm a / plugins / git4idea / src / git4idea / roots / GitRootScanner . java <nl> ppp b / plugins / git4idea / src / git4idea / roots / GitRootScanner . java <nl> public class GitRootScanner implements BulkFileListener , ModuleRootListener , Dis <nl> @ Override <nl> public void dispose ( ) { <nl> + myAlarm . cancelAllRequests ( ) ; <nl> } <nl> @ Override <nl>
+-------------------------------------------------
+0.0
+e92c622 7f63ef3
+Prevent insanely long passwords from crashing SystemUI
+"mmm a / packages / Keyguard / res / layout / keyguard_password_view . xml <nl> ppp b / packages / Keyguard / res / layout / keyguard_password_view . xml <nl> android : textSize = "" 16sp "" <nl> android : textAppearance = "" ? android : attr / textAppearanceMedium "" <nl> android : imeOptions = "" flagForceAscii | actionDone "" <nl> + android : maxLength = "" 500 "" <nl> / > <nl> < ImageView android : id = "" @ + id / switch_ime_button "" <nl>"
+-------------------------------------------------
+0.0
+Fixed ui bug
+change _username_ field input type in NUX sign in
+"mmm a / res / layout / nux_fragment_welcome_sign_in . xml <nl> ppp b / res / layout / nux_fragment_welcome_sign_in . xml <nl> style = "" @ style / WordPress . NUXEditText "" <nl> android : hint = "" @ string / username_email "" <nl> android : padding = "" 16dp "" <nl> + android : inputType = "" textEmailAddress "" <nl> android : layout_marginLeft = "" 32dp "" / > <nl> < ImageView <nl>"
+-------------------------------------------------
+0.0
+Update build . gradle
+Changed version back to ' Dev Build '
+"mmm a / build / version . txt <nl> ppp b / build / version . txt <nl> - 2 . 5 . 0 <nl> \ No newline at end of file <nl> + Dev Build <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0
+remove
+update travis config
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> jdk : <nl> env : <nl> - ES_TEST_LOCAL = true <nl> - ES_TEST_LOCAL = false <nl> - - ES_TEST_LOCAL = false ES_TEST_COMPRESS = true <nl> notifications : <nl> email : false <nl>"
+-------------------------------------------------
+0.0
+add add add new enums . apache for proxy proxy process of
+added indexes
+"new file mode 100644 <nl> index 0000000 . . 74ac56b <nl> mmm / dev / null <nl> ppp b / actor - server / actor - persist / src / main / resources / sql / migration / V20151030163409__AddIndexToContacts . sql <nl> + CREATE INDEX ON unregistered_email_contacts ( email ) ; <nl> + <nl> + CREATE INDEX ON unregistered_phone_contacts ( phone_number ) ; <nl> + <nl>"
+-------------------------------------------------
+0.0
+Update build . xml .
+prepare for next development iteration
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < groupId > com . puppycrawl . tools < / groupId > <nl> < artifactId > checkstyle < / artifactId > <nl> - < version > 7 . 1 . 2 < / version > <nl> + < version > 7 . 1 . 3 - SNAPSHOT < / version > <nl> < packaging > jar < / packaging > <nl> < name > checkstyle < / name > <nl>"
+-------------------------------------------------
+0.0
+Added 1 for 2 . 2
+Remove ignoreSnapshots , we no longer use snapshot of Commons JCI
+"mmm a / jsonschema2pojo - upload - release <nl> ppp b / jsonschema2pojo - upload - release <nl> # To create a new release : <nl> # <nl> # 1 . Maven release command : <nl> - # mvn clean release : clean release : prepare release : perform - DignoreSnapshots - DautoVersionSubmodules <nl> + # mvn clean release : clean release : prepare release : perform - DautoVersionSubmodules <nl> # <nl> # 2 . Close and Release snapshots repo at oss . sonatype . org <nl> # <nl>"
+-------------------------------------------------
+0.0
+update test .
+"LRQA - 14419 Add new property to turn on running tests with poshi runner"
+mmm a / test . properties <nl> ppp b / test . properties <nl> # test . jdbc . drivers . url = <nl> test . save . screenshot = true <nl> test . selenium . logger . enabled = true <nl> + test . poshi . runner . enabled = false <nl> # test . url = http : / / localhost : 8080 <nl> # unzip . executable = <nl>
+-------------------------------------------------
+0.0
+Do not mean
+Remove observer only if it has been registered
+"mmm a / RCTVideo . m <nl> ppp b / RCTVideo . m <nl> static NSString * const playbackRate = @ "" rate "" ; <nl> - ( void ) removeFromSuperview <nl> { <nl> [ _player pause ] ; <nl> + if ( _playbackRateObserverRegistered ) { <nl> [ _player removeObserver : self forKeyPath : playbackRate ] ; <nl> _playbackRateObserverRegistered = NO ; <nl> + } <nl> _player = nil ; <nl> [ self removePlayerLayer ] ; <nl>"
+-------------------------------------------------
+0.0
+991a3d9 423494c
+missed shift
+"mmm a / idea / testData / javaFacade / classObject . kt <nl> ppp b / idea / testData / javaFacade / classObject . kt <nl> - namespace foo <nl> + package foo <nl> class TheClass ( ) { <nl> class object { <nl> mmm a / idea / testData / javaFacade / innerClass . kt <nl> ppp b / idea / testData / javaFacade / innerClass . kt <nl> - namespace foo <nl> + package foo <nl> class Outer ( ) { <nl> class Inner ( ) { <nl>"
+-------------------------------------------------
+0.0
+updated .
+"Updated webchat logo - added oracle logo as a separate image"
+"new file mode 100644 <nl> index 00000000 . . 78b709c8 <nl> Binary files / dev / null and b / apps / webchat / source / web / images / logo - oracle . gif differ <nl> Binary files a / apps / webchat / source / web / images / logo . gif and b / apps / webchat / source / web / images / logo . gif differ <nl> new file mode 100644 <nl> index 00000000 . . 47426405 <nl> Binary files / dev / null and b / apps / webchat / source / web / images / logo . psd differ <nl>"
+-------------------------------------------------
+0.0
+Update .
+Ignore files generated by the sharpen process
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> # ignore C # build directories <nl> [ Dd ] ebug / <nl> [ Rr ] elease / <nl> + reference / . metadata / <nl> + reference / antlr4 . net / <nl> mmm a / reference / antlr4 <nl> ppp b / reference / antlr4 <nl> - Subproject commit 88652241cf2c248a66307e5866be98e3910b6519 <nl> + Subproject commit 878b34fecc519d3eb131fa5f83db6a6a70face61 <nl>"
+-------------------------------------------------
+0.0
+Removing travis config .
+"Revert "" Added Circle CI configuration """
+"deleted file mode 100644 <nl> index 3e00232864 . . 0000000000 <nl> mmm a / circle . yml <nl> ppp / dev / null <nl> - # # Customize the circle CI test machine <nl> - machine : <nl> - java : <nl> - version : oraclejdk8 <nl> - <nl> - # # Prevent mvn dependency : resolve failing for intra - dependencies <nl> - dependencies : <nl> - override : <nl> - - mvn - fn dependency : resolve <nl> - <nl>"
+-------------------------------------------------
+0.0
+Added work .
+remove classpath from manifest
+"Binary files a / build / lib / launcher - generator . jar and b / build / lib / launcher - generator . jar differ <nl> new file mode 100644 <nl> index 0000000 . . a594470 <nl> mmm / dev / null <nl> ppp b / tools / launcher - generator / src / META - INF / MANIFEST . MF <nl> + Manifest - Version : 1 . 0 <nl> + Main - Class : com . pme . launcher . LauncherGeneratorMain <nl> + <nl>"
+-------------------------------------------------
+0.0
+Fixed configuration
+update fonts
+"mmm a / acra / doc / model / applicationLifeCycles . uml <nl> ppp b / acra / doc / model / applicationLifeCycles . uml <nl> @ startuml <nl> + skinparam activityFontSize 10 <nl> + skinparam activityFontName Helvetica <nl> title NOTIFICATION MODE <nl> ( * ) - - > "" Application start "" <nl>"
+-------------------------------------------------
+0.0
+make make using test make make make make General make General make
+Make NOPASS .
+"mmm a / py / testdir_single_jvm / test_exec2_function_phrases . py <nl> ppp b / py / testdir_single_jvm / test_exec2_function_phrases . py <nl> class Basic ( unittest . TestCase ) : <nl> def tearDownClass ( cls ) : <nl> h2o . tear_down_cloud ( ) <nl> - def test_exec2_function_phrases ( self ) : <nl> + def test_NOPASS_exec2_function_phrases ( self ) : <nl> if DO_IRIS : <nl> bucket = ' smalldata ' <nl> csvPathname = ' iris / iris2 . csv ' <nl>"
+-------------------------------------------------
+0.0
+Add missing to gitignore .
+"Ignore time - zone data"
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> / test - output / <nl> src / tz - data / <nl> * TempTest * <nl> + / src / main / resources / org / joda / time / tz / data / <nl>"
+-------------------------------------------------
+0.0
+add dependency
+Prepare 3 . 0 . 0 release
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> apply plugin : ' idea ' <nl> ext { <nl> bintrayPublish = false <nl> + / / Sets release version <nl> grailsVersion = ' 3 . 0 . 0 ' <nl> isBuildSnapshot = grailsVersion . endsWith ( "" . BUILD - SNAPSHOT "" ) <nl> isTravisBuild = System . getenv ( ) . get ( "" TRAVIS "" ) = = ' true ' <nl>"
+-------------------------------------------------
+0.0
+0dacb217b fef6d0e2b
+Remove reference to Melomel
+"mmm a / bigbluebutton - client / src / BigBlueButton . mxml <nl> ppp b / bigbluebutton - client / src / BigBlueButton . mxml <nl> ] ] > <nl> < / mx : Script > <nl> - < m : Melomel / > <nl> - <nl> < maps : ApplicationEventMap / > <nl> < views : MainApplicationShell id = "" mainShell "" / > <nl>"
+-------------------------------------------------
+0.0
+141505a 6ad9cc9
+Integrating new ADB USB debugging asset
+"Binary files a / core / res / res / drawable - hdpi / stat_sys_adb . png and b / core / res / res / drawable - hdpi / stat_sys_adb . png differ <nl> Binary files a / core / res / res / drawable - mdpi / stat_sys_adb . png and b / core / res / res / drawable - mdpi / stat_sys_adb . png differ <nl>"
+-------------------------------------------------
+0.0
+Update .
+Updated jar
+Binary files a / HdrHistogram . jar and b / HdrHistogram . jar differ <nl>
+-------------------------------------------------
+0.0
+"open gradle - test properties ."
+Set Gradle project name for CI
+"new file mode 100644 <nl> index 0000000 . . 4fd62c4 <nl> mmm / dev / null <nl> ppp b / spring - web - reactive / settings . gradle <nl> + rootProject . name = "" spring - reactive "" <nl>"
+-------------------------------------------------
+0.0
+set set works .
+Enabled Whole Module Optimization
+"mmm a / actor - sdk / sdk - core - ios / ActorSDK . xcodeproj / project . pbxproj <nl> ppp b / actor - sdk / sdk - core - ios / ActorSDK . xcodeproj / project . pbxproj <nl> PRODUCT_NAME = ActorSDK ; <nl> SKIP_INSTALL = YES ; <nl> STRIP_INSTALLED_PRODUCT = YES ; <nl> + SWIFT_OPTIMIZATION_LEVEL = "" - Owholemodule "" ; <nl> } ; <nl> name = Release ; <nl> } ; <nl>"
+-------------------------------------------------
+0.0
+update changelog
+"Added STORM - 816 to Changelog"
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 11 . 0 <nl> + * STORM - 816 : maven - gpg - plugin does not work with gpg 2 . 1 <nl> * STORM - 827 : Allow AutoTGT to work with storm - hdfs too . <nl> * STORM - 811 : remove old metastor_db before running tests again . <nl> * STORM - 807 : quote args to storm . py correctly <nl>"
+-------------------------------------------------
+0.0
+Use invoke 0 . 3 with invoke with invoke both both both
+Fixing the packaging for the SQLiteException
+"mmm a / jni / net_sqlcipher_database_SQLiteDatabase . cpp <nl> ppp b / jni / net_sqlcipher_database_SQLiteDatabase . cpp <nl> void throw_sqlite3_exception ( JNIEnv * env , int errcode , <nl> exceptionClass = "" net / sqlcipher / database / SQLiteMisuseException "" ; <nl> break ; <nl> default : <nl> - exceptionClass = "" net / sqlcipher / database / sqlcipher / SQLiteException "" ; <nl> + exceptionClass = "" net / sqlcipher / database / SQLiteException "" ; <nl> break ; <nl> } <nl>"
+-------------------------------------------------
+0.0
+ignoring .
+Updated gitignore
+mmm a / pdex / . gitignore <nl> ppp b / pdex / . gitignore <nl> + . DS_Store <nl> + . AppleDouble <nl> + . _ * <nl> + * ~ <nl> bin <nl> + mode / ExperimentalMode . jar <nl> + <nl>
+-------------------------------------------------
+0.0
+Fix is revert .
+remove evil tabs
+"mmm a / src / checkstyle / com / puppycrawl / tools / checkstyle / suppressions_1_0 . dtd <nl> ppp b / src / checkstyle / com / puppycrawl / tools / checkstyle / suppressions_1_0 . dtd <nl> < ! ELEMENT suppress EMPTY > <nl> < ! ATTLIST suppress files CDATA # REQUIRED <nl> checks CDATA # REQUIRED <nl> - lines CDATA # IMPLIED <nl> - columns CDATA # IMPLIED > <nl> + lines CDATA # IMPLIED <nl> + columns CDATA # IMPLIED > <nl>"
+-------------------------------------------------
+0.0
+changed changed
+Fix typo in pom . xml
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < / configuration > <nl> < executions > <nl> < execution > <nl> - < id > covertura < / id > <nl> + < id > cobertura < / id > <nl> < phase > package < / phase > <nl> < goals > <nl> < goal > cobertura < / goal > <nl>"
+-------------------------------------------------
+0.0
+d297271 67db7eb
+Remove duplicated bolts library
+deleted file mode 100644 <nl> index 9a9a1e9 . . 0000000 <nl> Binary files a / platforms / android / FacebookLib / libs / bolts . jar and / dev / null differ <nl>
+-------------------------------------------------
+0.0
+Update test . properties tsk for MiniLlapCluster
+"LPS - 66886 Adds missing file"
+new file mode 100644 <nl> index 000000000000 . . e69de29bb2d1 <nl>
+-------------------------------------------------
+0.0
+Added .
+"PUBDEV - 2843 - added full regularization path extraction to python"
+"mmm a / h2o - py / tests / testdir_algos / glm / pyunit_glm_regularization_path . py <nl> ppp b / h2o - py / tests / testdir_algos / glm / pyunit_glm_regularization_path . py <nl> def reg_path_glm ( ) : <nl> print ( diff2 ) <nl> assert diff < 1e - 3 <nl> assert diff2 < 1e - 3 <nl> - <nl> + <nl> if __name__ = = "" __main__ "" : <nl> pyunit_utils . standalone_test ( reg_path_glm ) <nl> else : <nl>"
+-------------------------------------------------
+0.0
+replaced undefined button in .
+"add "" \ n "" to processed response"
+"mmm a / python / pydevSrc / com / jetbrains / python / debugger / pydev / RemoteDebugger . java <nl> ppp b / python / pydevSrc / com / jetbrains / python / debugger / pydev / RemoteDebugger . java <nl> public class RemoteDebugger implements ProcessDebugger { <nl> } <nl> for ( String line : lines ) { <nl> - processResponse ( line ) ; <nl> + processResponse ( line + "" \ n "" ) ; <nl> } <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.0
+952218c84 971dc1eb0
+Add missing SideOnly in BaseMod
+mmm a / fml / client / net / minecraft / src / BaseMod . java <nl> ppp b / fml / client / net / minecraft / src / BaseMod . java <nl> public abstract class BaseMod implements cpw . mods . fml . common . modloader . BaseModPr <nl> return null ; <nl> } <nl> + @ SideOnly ( CLIENT ) <nl> public void clientCustomPayload ( NetClientHandler handler , Packet250CustomPayload packet ) <nl> { <nl>
+-------------------------------------------------
+0.0
+Update Demo . gif
+replace demo image
+Binary files a / art / demo . gif and b / art / demo . gif differ <nl>
+-------------------------------------------------
+0.0
+cleared
+add missing test data
+"new file mode 100644 <nl> index 0000000 . . f8098ab <nl> mmm / dev / null <nl> ppp b / java / java - tests / testData / codeInsight / folding / FoldingException2Test . java <nl> + public class Test { <nl> + < caret > <nl> + @ SuppressWarnings ( "" unused "" ) void m ( ) { <nl> + System . out . println ( ) ; <nl> + } <nl> + } <nl>"
+-------------------------------------------------
+0.0
+travis test
+Removed the 3 . 5 . x branch .
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> language : java <nl> branches : <nl> only : <nl> - master <nl> - - 3 . 5 . x <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0
+wat wat
+added mac binary
+"new file mode 100755 <nl> index 0000000 . . c1f0c53 <nl> Binary files / dev / null and b / src / main / resources / packr - mac differ <nl>"
+-------------------------------------------------
+0.0
+Adds to fix build .
+Add internet permission
+"mmm a / sample / AndroidManifest . xml <nl> ppp b / sample / AndroidManifest . xml <nl> android : label = "" @ string / app_name "" <nl> android : theme = "" @ style / AppTheme "" > <nl> + < uses - permission android : name = "" android . permission . INTERNET "" / > <nl> < activity <nl> android : name = "" . ui . MainActivity "" <nl>"
+-------------------------------------------------
+0.0
+Added .
+Add gitignore
+new file mode 100644 <nl> index 0000000 . . 5e20ced <nl> mmm / dev / null <nl> ppp b / . gitignore <nl> + . classpath <nl> + . project <nl> + . metadata / <nl> + . settings / <nl> + logs / <nl> + target / <nl> \ No newline at end of file <nl>
+-------------------------------------------------
+0.0
+Removing .
+removed aapt since BuildHive didn ' t work
+deleted file mode 100755 <nl> index 71878b9 . . 0000000 <nl> Binary files a / bin / aapt and / dev / null differ <nl>
+-------------------------------------------------
+0.0
+4bb01f1 e6792e1
+Fix ringback return value .
+"mmm a / telecomm / java / android / telecom / RemoteConnection . java <nl> ppp b / telecomm / java / android / telecom / RemoteConnection . java <nl> public final class RemoteConnection { <nl> * ringback tone on its behalf . <nl> * / <nl> public boolean isRingbackRequested ( ) { <nl> - return false ; <nl> + return mRingbackRequested ; <nl> } <nl> / * * <nl>"
+-------------------------------------------------
+0.0
+Updated update
+"added STORM - 548 to changelog ."
+"mmm a / CHANGELOG . md <nl> ppp b / CHANGELOG . md <nl> # # 0 . 10 . 0 <nl> + * STORM - 548 : Receive Thread Shutdown hook should connect to local hostname but not Localhost <nl> * STORM - 567 : Move Storm Documentation / Website from SVN to git <nl> * STORM - 533 : Add in client and server IConnection metrics . <nl> * STORM - 572 : Storm UI ' favicon . ico ' <nl>"
+-------------------------------------------------
+0.0
+fix typo
+"GRAILS - 5883 - fixed bug in domain class mock constructor that caused an instance of the super class to be returned instead of the target class ."
+"mmm a / src / java / grails / test / MockUtils . groovy <nl> ppp b / src / java / grails / test / MockUtils . groovy <nl> class MockUtils { <nl> / / Add data binding capabilities <nl> clazz . metaClass . constructor = { Map params - > <nl> - def obj = BeanUtils . instantiateClass ( clazz ) <nl> + def obj = BeanUtils . instantiateClass ( delegate ) <nl> DataBindingUtils . bindObjectToInstance ( obj , params ) <nl> return obj <nl> } <nl>"
+-------------------------------------------------
+0.0
+Update .
+improve gitignore
+"mmm a / . gitignore <nl> ppp b / . gitignore <nl> nbactions * . xml <nl> # IntelliJ projects <nl> * . iws <nl> - . idea / * <nl> + * . iml <nl> + . idea / <nl> # Eclipse projects <nl> . classpath <nl>"
+-------------------------------------------------
+0.0
+Do starting notifications Add starting starting Do not Do not use easily
+allow panes to raise themselves again
+mmm a / src / gwt / src / org / rstudio / core / client / theme / WindowFrame . java <nl> ppp b / src / gwt / src / org / rstudio / core / client / theme / WindowFrame . java <nl> public class WindowFrame extends Composite <nl> { <nl> if ( ! isVisible ( ) ) <nl> fireEvent ( new WindowStateChangeEvent ( WindowState . NORMAL ) ) ; <nl> + <nl> + events_ . fireEvent ( new WindowEnsureVisibleEvent ( this ) ) ; <nl> } <nl> @ Override <nl>
+-------------------------------------------------
+0.0
+Update AndroidManifest . xml
+Remove allowBackup property from manifest
+"mmm a / library / src / main / AndroidManifest . xml <nl> ppp b / library / src / main / AndroidManifest . xml <nl> < uses - sdk android : minSdkVersion = "" 8 "" android : targetSdkVersion = "" 19 "" / > <nl> - < application android : allowBackup = "" true "" <nl> + < application <nl> android : label = "" @ string / app_name "" <nl> android : icon = "" @ drawable / ic_launcher "" > <nl>"
+-------------------------------------------------
+0.0
+add
+Added vote , and corrected mvn . properties . default ( added back AL2 license to property file )
+"mmm a / STATUS <nl> ppp b / STATUS <nl> PATCHES PROPOSED TO BACKPORT : <nl> escaping . This patch also tidies up ServerCookie to make it clearer what <nl> applies to which particular cookie spec . <nl> http : / / people . apache . org / ~ markt / patches / 2007 - 10 - 18 - cookies . patch <nl> - + 1 : markt <nl> + + 1 : markt , fhanik <nl> - 1 : <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0
+Test dependencies
+"Skip tests pending resolution of JBAS - 8339"
+"mmm a / process - manager / pom . xml <nl> ppp b / process - manager / pom . xml <nl> < name > JBoss Application Server : Process Manager < / name > <nl> + < properties > <nl> + < skipTests > true < / skipTests > <nl> + < / properties > <nl> + <nl> < dependencies > <nl> < dependency > <nl> < groupId > org . jboss . logging < / groupId > <nl>"
+-------------------------------------------------
+0.0
+Updated changelog
+Update CHANGES , Added 1 . 1 . 1 version notes .
+"mmm a / CHANGES <nl> ppp b / CHANGES <nl> + [ 1 . 1 . 1 ] <nl> + <nl> [ 1 . 1 . 0 ] <nl> - Updated to RoboVM 0 . 0 . 13 and RoboVM Gradle plugin 0 . 0 . 9 <nl> - Big improvements to setup - ui and build times in Intellij IDEA https : / / github . com / libgdx / libgdx / pull / 1865 <nl>"
+-------------------------------------------------
+0.0
+maven maven maven maven maven maven maven maven maven maven plugin test
+Require Maven 3 . 1 . 1 or better
+"mmm a / pom . xml <nl> ppp b / pom . xml <nl> < inceptionYear > 2007 < / inceptionYear > <nl> < prerequisites > <nl> - < maven > 3 . 0 . 4 < / maven > <nl> + < maven > 3 . 1 . 1 < / maven > <nl> < / prerequisites > <nl> < properties > <nl>"
+-------------------------------------------------
+0.0
+fixes # grade
+Fixed bug in Svn class with wrong release branch name .
+"mmm a / buildSrc / src / main / groovy / org / gradle / build / release / Svn . groovy <nl> ppp b / buildSrc / src / main / groovy / org / gradle / build / release / Svn . groovy <nl> class Svn { <nl> } <nl> def getReleaseBranchUrl ( ) { <nl> - createUrl ( svnUrl , releaseBranchName ) <nl> + createUrl ( svnUrl , "" branches / $ releaseBranchName "" ) <nl> } <nl> def getTrunkUrl ( ) { <nl>"
+-------------------------------------------------
+0.0
+ignore
+Updated gitignore
+mmm a / . gitignore <nl> ppp b / . gitignore <nl> gen / mps / languages / im . actor . apiLanguage / classes_gen <nl> gen / mps / languages / im . actor . apiLanguage / source_gen <nl> + gen / mps / languages / im . actor . apiLanguage / typesystem / generated <nl> + gen / mps / languages / im . actor . apiLanguage / source_gen . caches <nl> + gen / mps / . mps / workspace . xml <nl>
+-------------------------------------------------
+0.0
+Removed ( Removed Removed Removed Removed Removed Removed Removed Removed Removed Removed
+remove logall since it doesn ' t trigger anymore
+"mmm a / samples / src / roboguice / astroboy / service / ContextObservingClassEventService . java <nl> ppp b / samples / src / roboguice / astroboy / service / ContextObservingClassEventService . java <nl> public class ContextObservingClassEventService { <nl> return false ; <nl> } <nl> - public void logall ( @ Observes Object event ) { <nl> - Ln . v ( "" Object event "" ) ; <nl> - } <nl> } <nl>"
+-------------------------------------------------
+0.0
+Added APK APK to stop .
+adds TODO for instantiateCroutonView
+mmm a / library / src / de / keyboardsurfer / android / widget / crouton / Crouton . java <nl> ppp b / library / src / de / keyboardsurfer / android / widget / crouton / Crouton . java <nl> public final class Crouton { <nl> } <nl> private void initializeCroutonView ( ) { <nl> + / / TODO refactor in a seperate View class ! <nl> Resources resources = this . activity . getResources ( ) ; <nl> / / create outer frame <nl>
+-------------------------------------------------
+0.0
+bonjour bonjour
+adding missing library
+new file mode 100755 <nl> index 00000000 . . ea2608ed <nl> Binary files / dev / null and b / libs / armeabi / libsqlcipher_android . so differ <nl>
+-------------------------------------------------
+0.0
+Update gradle . gradle
+include missing dep for now
+"mmm a / build . gradle <nl> ppp b / build . gradle <nl> buildscript { <nl> dependencies { <nl> classpath ' me . trnl : clirr - gradle - plugin : 0 . 4 ' <nl> classpath ' com . antwerkz . github : github - release - gradle - plugin : 1 . 0 . 0 - RC3 ' <nl> + classpath ' org . gradle . api . plugins : gradle - nexus - plugin : 0 . 3 ' <nl> } <nl> } <nl>"
+-------------------------------------------------
+0.0
+check ignore
+Added jar file
+"new file mode 100644 <nl> index 0000000 . . 43416b8 <nl> Binary files / dev / null and b / com . haarman . listviewanimations - 1 . 8 . jar differ <nl>"
+-------------------------------------------------
+0.0
+Change properties properties . properties .
+Bump the version
+"mmm a / gradle . properties <nl> ppp b / gradle . properties <nl> - version = 1 . 8 . 2 <nl> + version = 1 . 8 . 3 <nl> sonatypeUsername = please_set_in_home_dir_if_uploading_to_maven_central <nl> sonatypePassword = please_set_in_home_dir_if_uploading_to_maven_central <nl>"
+-------------------------------------------------
+0.0
+Update build . yml
+Travis should also use the Gradle wrapper
+"mmm a / . travis . yml <nl> ppp b / . travis . yml <nl> jdk : <nl> - oraclejdk8 <nl> script : <nl> - - gradle clean build javadoc <nl> + - gradlew clean build javadoc <nl>"
+-------------------------------------------------
+0.0
+Update . java . org / svn / deeplearning4j / www /
+"Revert "" Remove stale import """
+old mode 100644 <nl> new mode 100755 <nl>
+-------------------------------------------------
+0.0
+adding missing for unregistered_phone_contacts .
+set device_title type t VARCHAR ( 255 )
+"new file mode 100644 <nl> index 0000000 . . c23e37e <nl> mmm / dev / null <nl> ppp b / actor - persist / src / main / resources / sql / migration / V20150522142247__IncreaseDeviceTitleTo255 . sql <nl> + ALTER TABLE auth_sessions <nl> + ALTER COLUMN device_title TYPE VARCHAR ( 255 ) ; <nl> \ No newline at end of file <nl>"
+-------------------------------------------------
+0.0
+Fixing method in ` .
+Changing Error to Warning
+"mmm a / Libraries / Network / RCTNetworking . m <nl> ppp b / Libraries / Network / RCTNetworking . m <nl> RCT_EXPORT_MODULE ( ) <nl> NSString * responseText = [ [ NSString alloc ] initWithData : data encoding : encoding ] ; <nl> if ( ! responseText & & data . length ) { <nl> - RCTLogError ( @ "" Received data was invalid . "" ) ; <nl> + RCTLogWarn ( @ "" Received data was invalid . "" ) ; <nl> return ; <nl> } <nl>"
+-------------------------------------------------
+0.0
+Update project name name .
+Updated the version #
+"mmm a / README . md <nl> ppp b / README . md <nl> dependencies { <nl> repositories { <nl> mavenCentral ( ) <nl> } <nl> - compile ' com . sothree . slidinguppanel : library : + ' <nl> + compile ' com . sothree . slidinguppanel : library : 2 . 0 . 4 ' <nl> } <nl> ` ` ` <nl>"
+-------------------------------------------------
+0.0
+Updated version
+"Smack 4 . 2 . 0 - alpha1"
+"mmm a / version . gradle <nl> ppp b / version . gradle <nl> allprojects { <nl> ext { <nl> shortVersion = ' 4 . 2 . 0 - alpha1 ' <nl> - isSnapshot = true <nl> + isSnapshot = false <nl> jxmppVersion = ' 0 . 5 . 0 - alpha1 ' <nl> smackMinAndroidSdk = 8 <nl>"
+-------------------------------------------------
+0.0
+updated test .
+"HoverTank blender model now references the correct textures ( PNG - > JPG )"
+"Binary files a / engine / test - data / Models / HoverTank / tankFinalExport . blend and b / engine / test - data / Models / HoverTank / tankFinalExport . blend differ <nl>"
+-------------------------------------------------
+0.0
+Update project . properties
+Prepared version code / name for release
+"mmm a / gradle . properties <nl> ppp b / gradle . properties <nl> - VERSION_NAME = 0 . 2 . 1 - SNAPSHOT <nl> - VERSION_CODE = 5 <nl> + VERSION_NAME = 0 . 2 . 2 <nl> + VERSION_CODE = 6 <nl> GROUP = com . github . castorflex . smoothprogressbar <nl> POM_DESCRIPTION = Android Library make smooth progress bars <nl>"
+-------------------------------------------------
+0.0
+0156a37 d389049
+Add RIL_REQUEST_SET_INITIAL_ATTACH_APN .
+mmm a / telephony / java / com / android / internal / telephony / RILConstants . java <nl> ppp b / telephony / java / com / android / internal / telephony / RILConstants . java <nl> cat include / telephony / ril . h | \ <nl> int RIL_REQUEST_VOICE_RADIO_TECH = 108 ; <nl> int RIL_REQUEST_GET_CELL_INFO_LIST = 109 ; <nl> int RIL_REQUEST_SET_UNSOL_CELL_INFO_LIST_RATE = 110 ; <nl> + int RIL_REQUEST_SET_INITIAL_ATTACH_APN = 111 ; <nl> int RIL_UNSOL_RESPONSE_BASE = 1000 ; <nl> int RIL_UNSOL_RESPONSE_RADIO_STATE_CHANGED = 1000 ; <nl> int RIL_UNSOL_RESPONSE_CALL_STATE_CHANGED = 1001 ; <nl>
+-------------------------------------------------
